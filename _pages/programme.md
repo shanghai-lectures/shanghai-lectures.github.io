@@ -57,7 +57,7 @@ permalink: /programme/
 * Guest Lecture by Keyan Ghazi-Zahedi
   * Max Planck Institute for Mathematics, Berlin, Germany
   * *"Quantifying Morphological Computation"*
-  * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Nicolas_Rojas_ShanghAI Lectures 2017.pdf).
+  * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Keyan_Ghazi_Zahedi2017Nov23QMC.pdf).
 
 ### Lecture 6: Collective Intelligence: Cognition from Interaction
 * 2017-11-30 09:30 to 11:00 CET 
