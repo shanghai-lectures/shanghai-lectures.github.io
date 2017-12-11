@@ -33,7 +33,7 @@ permalink: /programme/
 * Guest lecture by Olivier Michel:
   * Cyberbotics, Lausanne, Switzerland
   * *"Robotbenchmark: a web-based robotics simulation to compare control algorithms on standard benchmarks"*
-  The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/OlivierMichel2017Nov9RobotBenchPDF.pdf).
+  * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/OlivierMichel2017Nov9RobotBenchPDF.pdf).
 
 ### Lecture 4: Evolution: Cognition from Scratch
 * 2017-11-16 09:30 to 11:00 CET 
@@ -61,7 +61,7 @@ permalink: /programme/
 
 ### Lecture 6: Collective Intelligence: Cognition from Interaction
 * 2017-11-30 09:30 to 11:00 CET 
-* *Emerging Intelligence: Cognition from Interaction, Development and Evolution * 
+* Emerging Intelligence: Cognition from Interaction, Development and Evolution 
 * Lecturer: Fabio Bonsignorio
 * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Lecture6_2017Nov30EmergingPDF.pdf).
 * Guest Lecture by Martin Stoelen:
