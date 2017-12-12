@@ -48,6 +48,7 @@ permalink: /programme/
   * Imperial College, London, UK
   * *"Enhancing in-hand manipulation via mechanical intelligence"* 
   * The Lecture's PDF is [here](https://shanghai-lectures.github.io/Nicolas_Rojas_ShanghAI_Lectures_2017.pdf).
+* The Lecture's videos is [here](https://youtu.be/CLamfKjrCjc).
 
 ### Lecture 5: Morphological Computation, Self-Organization of Behaviors and Adaptive Morphologies
 * 2017-11-23 09:30 to 11:00 CET
