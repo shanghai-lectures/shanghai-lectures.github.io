@@ -90,9 +90,11 @@ permalink: /programme/
   
 
 ### Lecture  8: Grab Bag, Summary, Discussion
-* 2016-12-15 09:30 to 11:00 CET
+* 2016-12-14 09:30 to 11:00 CET
 * *Grab Bag, Summary and topics to discuss* 
 * Lecturer: Fabio Bonsignorio
 * Guest lecture by Rolf Pfeifer:
-  * Em. Prof. University of Zurich, Zurich, Switzerland
+  * Em. Prof. University of Zurich, Zurich, Switzerland, Prof.
+Dept. of Automation, Shanghai Jiao Tong University, China and Scientific Consultant
+Living with Robots Ltd
   * *"How the Body Shapes the Way We Think: 10 Years later"* 
