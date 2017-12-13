@@ -86,6 +86,8 @@ permalink: /programme/
 * Guest Lecture by Ruairi Glynn:
   * The Bartlett School of Architecture, UCL, London, UK
   * *"Animating Art & Architecture"* 
+* The Lecture's video is [here](https://youtu.be/pKRFItObxjY). 
+  
 
 ### Lecture  8: Grab Bag, Summary, Discussion
 * 2016-12-15 09:30 to 11:00 CET
