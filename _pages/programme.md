@@ -14,6 +14,7 @@ permalink: /programme/
 * Lecturer: Fabio Bonsignorio
 * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Lecture1_2017Oct26IntroPDF.pdf).
 * Site introductions 
+* The Lecture's video is [here](https://youtu.be/vjbhbGmhczs)
 
 ### Lecture 2: Towards a Theory of Embodied Intelligence
 * 2017-11-02 09:30 to 11:00 CET 
@@ -24,6 +25,7 @@ permalink: /programme/
   * Vermont Complex Systems Center, University of Vermont, USA
   * *"Evolving and developing soft robots"*
   * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/JoshBongard2017Nov2EvoDeSoRoPDF.pdf).
+* The Lecture's video is [here](https://youtu.be/qi-73oYndTk)
 
 ### Lecture 3: Intelligent Systems: Properties and Principles
 * 2017-11-09 09:30 to 11:00 CET 
@@ -34,6 +36,7 @@ permalink: /programme/
   * Cyberbotics, Lausanne, Switzerland
   * *"Robotbenchmark: a web-based robotics simulation to compare control algorithms on standard benchmarks"*
   * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/OlivierMichel2017Nov9RobotBenchPDF.pdf).
+* The Lecture's video is [here](https://youtu.be/iyK05nP3InA)
 
 ### Lecture 4: Evolution: Cognition from Scratch
 * 2017-11-16 09:30 to 11:00 CET 
@@ -59,6 +62,7 @@ permalink: /programme/
   * Max Planck Institute for Mathematics, Berlin, Germany
   * *"Quantifying Morphological Computation"*
   * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Keyan_Ghazi_Zahedi2017Nov23QMC.pdf).
+* The Lecture's video is [here](https://youtu.be/dn9IHjY46rE).
 
 ### Lecture 6: Collective Intelligence: Cognition from Interaction
 * 2017-11-30 09:30 to 11:00 CET 
@@ -69,6 +73,7 @@ permalink: /programme/
   * University of Plymouth, Plymouth, UK
   * *"Co-developing brain and body, in the field"* 
   * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/shail_nov2017_Martin_F_Stoelen.pdf).
+ * The Lecture's video is [here](https://youtu.be/IluQv4EueDY). 
   
 ### Lecture 7: The Road Ahead
 * 2017-12-7  09:30 to 11:00 CET
