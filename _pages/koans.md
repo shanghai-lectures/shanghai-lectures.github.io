@@ -10,9 +10,9 @@ permalink: /koans/
 **Timetable** 
 
   * 11 December: Kōans published
-  * 18 December: **Deadline**, register and select a Kōan
-  * 21 December: Student groups published
-  * 15 January: **Deadline**, preliminary design report
+  * 26 December: **Deadline**, register and select a Kōan
+  * 29 December: Student groups published
+  * 22 January: **Deadline**, preliminary design report (you can start to submit on January 15)
   * End of January until Mid March: **Group presentations**
   
   
