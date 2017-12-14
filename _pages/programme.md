@@ -101,7 +101,7 @@ permalink: /programme/
 * 2016-12-14 09:30 to 11:00 CET
 * *Grab Bag, Summary and topics to discuss* 
 * Lecturer: Fabio Bonsignorio
-* The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Lecture8_2017Dec14GrabbagPDF.compressed.pdf)
+* The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Lecture8_2017Dec14GrabbagPDF_compressed.pdf)
 * Guest lecture by Rolf Pfeifer:
   * Em. Prof. University of Zurich, Zurich, Switzerland, Prof.
 Dept. of Automation, Shanghai Jiao Tong University, China and Scientific Consultant
