@@ -34,7 +34,7 @@ permalink: /programme/
 * 2017-11-09 09:30 to 11:00 CET 
 * *Intelligent Systems: Properties and Principles* 
 * Lecturer: Fabio Bonsignorio
-* The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Lecture3_2017Nov9PrinciplesPDF.pdf).
+* The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Lecture8_2017Dec14GrabbagPDF.compressed.pdf).
 * Guest lecture by Olivier Michel:
   * Cyberbotics, Lausanne, Switzerland
   * *"Robotbenchmark: a web-based robotics simulation to compare control algorithms on standard benchmarks"*
@@ -101,6 +101,7 @@ permalink: /programme/
 * 2016-12-14 09:30 to 11:00 CET
 * *Grab Bag, Summary and topics to discuss* 
 * Lecturer: Fabio Bonsignorio
+* The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Calisti_ShangAI_Lecture_vSHORT.pdf)
 * Guest lecture by Rolf Pfeifer:
   * Em. Prof. University of Zurich, Zurich, Switzerland, Prof.
 Dept. of Automation, Shanghai Jiao Tong University, China and Scientific Consultant
