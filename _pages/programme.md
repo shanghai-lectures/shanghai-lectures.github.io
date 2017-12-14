@@ -83,7 +83,7 @@ permalink: /programme/
 * Young Researcher Guest Lecture by Marcello Calisti:
   * The BioRobotics Institute, SSSA, Pisa, Italy
   * *"Bioinspired approaches to design and control of mobile soft robots"* 
-  * The Lecture's PDF is [here]( shanghai-lectures.github.io/slides/Calisti_ShangAI_Lecture_vSHORT.pdf )
+  * The Lecture's PDF is [here]( http://shanghai-lectures.github.io/slides/Calisti_ShangAI_Lecture_vSHORT.pdf )
 * Guest Lecture by Ruairi Glynn:
   * The Bartlett School of Architecture, UCL, London, UK
   * *"Animating Art & Architecture"* 
