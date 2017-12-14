@@ -13,7 +13,7 @@ main:
     url: /koans/
     
   - title: "Student Registration"
-    url: http://www.eventbrite.co.uk/e/shanghai-lectures-2016-tickets-28996044951?ref=ebtn
+    url: https://www.eventbrite.co.uk/e/shanghai-lectures-2017-student-registration-registration-38812771043?ref=ebtn
 
   - title: "Archives"
     url: https://shanghai-lectures.github.io/archives/index.html
