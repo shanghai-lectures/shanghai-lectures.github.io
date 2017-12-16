@@ -107,6 +107,6 @@ permalink: /programme/
 Dept. of Automation, Shanghai Jiao Tong University, China and Scientific Consultant
 Living with Robots Ltd
   * *"How the Body Shapes the Way We Think: 10 Years later"* 
-* The Lecture's video is [here](https://youtu.be/xQ0W-s4K5BU)
+* The Lecture's video is [here](https://youtu.be/c8zt257Nu4c)
 * 课程视频在[这里](https://v.youku.com/v_show/id_XMzIzMTY2OTk4MA==.html?spm=a2hzp.8244740.0.0)
 
