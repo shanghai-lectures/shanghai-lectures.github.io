@@ -67,7 +67,7 @@ permalink: /programme/
   * Max Planck Institute for Mathematics, Berlin, Germany
   * *"Quantifying Morphological Computation"*
   * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Keyan_Ghazi_Zahedi2017Nov23QMC.pdf).
-* The Lecture's video is [here](https://youtu.be/dn9IHjY46rE).
+* The Lecture's video is <a href="https://youtu.be/dn9IHjY46rE" target="_blank">  here </a>
 * 课程视频在[这里](http://v.youku.com/v_show/id_XMzIzMTY4MDMyMA==.html?spm=a2h0j.8191423.module_basic_relation.5~5!2~5~5!3~5!2~1~3~A)
 
 ### Lecture 6: Collective Intelligence: Cognition from Interaction
