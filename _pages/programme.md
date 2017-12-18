@@ -14,11 +14,6 @@ permalink: /programme/
 * Lecturer: Fabio Bonsignorio
 * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Lecture1_2017Oct26IntroPDF.pdf).
 * Site introductions 
-<!--This is a comment. Comments are not displayed in the browser
-* The Lecture's video is [here](https://youtu.be/vjbhbGmhczs)
-* 课程视频在[这里](https://v.youku.com/v_show/id_XMzIzMTY3NTQ0MA==.html)
--->
-
 
 ### Lecture 2: Towards a Theory of Embodied Intelligence
 * 2017-11-02 09:30 to 11:00 CET 
