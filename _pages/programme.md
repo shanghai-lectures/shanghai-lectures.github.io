@@ -24,7 +24,7 @@ permalink: /programme/
   * Vermont Complex Systems Center, University of Vermont, USA
   * *"Evolving and developing soft robots"*
   * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/JoshBongard2017Nov2EvoDeSoRoPDF.pdf).
-* The Lecture's video is <a href="https://youtu.be/qi-73oYndTk" target="_blank">  here </a>
+* The Lecture's video is [here](https://youtu.be/PheEp1pkdlg).
 * 课程视频在[这里](https://v.youku.com/v_show/id_XMzIzMTg2ODUwNA==.html?spm=a2hzp.8244740.0.0)
 
 ### Lecture 3: Intelligent Systems: Properties and Principles
@@ -36,7 +36,7 @@ permalink: /programme/
   * Cyberbotics, Lausanne, Switzerland
   * *"Robotbenchmark: a web-based robotics simulation to compare control algorithms on standard benchmarks"*
   * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/OlivierMichel2017Nov9RobotBenchPDF.pdf).
-* The Lecture's video is <a href="https://youtu.be/iyK05nP3InA" target="_blank">  here </a>
+* The Lecture's video is [here](https://www.youtube.com/watch?v=iyK05nP3InA&t=2s).
 * 课程视频在[这里](http://v.youku.com/v_show/id_XMzIzMTY3NzA0MA==.html?spm=a2h0j.8191423.module_basic_relation.5~5!2~5~5!5~5!2~1~3~A)
 
 ### Lecture 4: Evolution: Cognition from Scratch
@@ -91,7 +91,7 @@ permalink: /programme/
 * Guest Lecture by Ruairi Glynn:
   * The Bartlett School of Architecture, UCL, London, UK
   * *"Animating Art & Architecture"* 
-* The Lecture's video is <a href="https://youtu.be/pKRFItObxjY" target="_blank">  here </a>
+* The Lecture's video is  [here](https://youtu.be/PheEp1pkdlg).
 * 课程视频在[这里](https://v.youku.com/v_show/id_XMzIzMTQ3NDQ2NA==.html?spm=a2hzp.8244740.0.0)
   
 ### Lecture  8: Grab Bag, Summary, Discussion
@@ -104,6 +104,6 @@ permalink: /programme/
 Dept. of Automation, Shanghai Jiao Tong University, China and Scientific Consultant
 Living with Robots Ltd
   * *"How the Body Shapes the Way We Think: 10 Years later"* 
-* The Lecture's video is <https://youtu.be/PheEp1pkdlg>
-* 课程视频在[这里](https://v.youku.com/v_show/id_XMzIzNzAyNTQyNA==.html?spm=a2hzp.8244740.0.0)
+* The Lecture's video is  [here](https://youtu.be/PheEp1pkdlg).
+* 课程视频在[这里](https://v.youku.com/v_show/id_XMzIzNzAyNTQyNA==.html?spm=a2hzp.8244740.0.0).
 
