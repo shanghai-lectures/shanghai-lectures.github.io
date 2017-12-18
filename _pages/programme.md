@@ -76,7 +76,7 @@ permalink: /programme/
   * University of Plymouth, Plymouth, UK
   * *"Co-developing brain and body, in the field"* 
   * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/shail_nov2017_Martin_F_Stoelen.pdf).
- * The Lecture's video is <a href="https:youtu.be/IluQv4EueDY" target="_blank">  here </a>
+ * The Lecture's video is [here](https://youtu.be/IluQv4EueDY).
  * 课程视频在[这里](http://v.youku.com/v_show/id_XMzIzMTcxMDk3Ng==.html?spm=a2h0j.8191423.module_basic_relation.5~5!2~5~5!5~5!2~1~3~A)
   
 ### Lecture 7: The Road Ahead
