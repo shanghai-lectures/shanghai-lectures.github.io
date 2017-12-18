@@ -39,7 +39,7 @@ permalink: /programme/
   * Cyberbotics, Lausanne, Switzerland
   * *"Robotbenchmark: a web-based robotics simulation to compare control algorithms on standard benchmarks"*
   * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/OlivierMichel2017Nov9RobotBenchPDF.pdf).
-* The Lecture's video is https://youtu.be/iyK05nP3InA <a href="https://youtu.be/iyK05nP3InA" target="_blank">  here </a>
+* The Lecture's video is <a href="https://youtu.be/iyK05nP3InA" target="_blank">  here </a>
 * 课程视频在[这里](http://v.youku.com/v_show/id_XMzIzMTY3NzA0MA==.html?spm=a2h0j.8191423.module_basic_relation.5~5!2~5~5!5~5!2~1~3~A)
 
 ### Lecture 4: Evolution: Cognition from Scratch
@@ -55,7 +55,7 @@ permalink: /programme/
   * Imperial College, London, UK
   * *"Enhancing in-hand manipulation via mechanical intelligence"* 
   * The Lecture's PDF is [here](https://shanghai-lectures.github.io/Nicolas_Rojas_ShanghAI_Lectures_2017.pdf).
-* The Lecture's video is [here](https://youtu.be/CLamfKjrCjc).
+* The Lecture's video is <a href="https://youtu.be/CLamfKjrCjc" target="_blank">  here </a>
 * 课程视频在[这里](http://v.youku.com/v_show/id_XMzIzMTY3Nzk0OA==.html?spm=a2h0j.8191423.module_basic_relation.5~5!2~5~5!4~5!2~1~3~A)
 
 ### Lecture 5: Morphological Computation, Self-Organization of Behaviors and Adaptive Morphologies
