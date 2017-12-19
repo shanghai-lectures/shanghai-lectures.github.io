@@ -25,7 +25,7 @@ permalink: /programme/
   * *"Evolving and developing soft robots"*
   * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/JoshBongard2017Nov2EvoDeSoRoPDF.pdf).
 * The Lecture's video is [here](https://youtu.be/PheEp1pkdlg).
-* 课程视频在[这里](https://v.youku.com/v_show/id_XMzIzMTg2ODUwNA==.html?spm=a2hzp.8244740.0.0)
+* 课程视频在[这里](https://v.youku.com/v_show/id_XMzI0MzMxNzU1Mg==.html?spm=a2hzp.8244740.0.0)
 
 ### Lecture 3: Intelligent Systems: Properties and Principles
 * 2017-11-09 09:30 to 11:00 CET 
