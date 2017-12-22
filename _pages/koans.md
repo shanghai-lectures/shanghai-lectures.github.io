@@ -30,6 +30,6 @@ permalink: /koans/
 
 **Resources**
 
-See the 2017 intro presentation "Group Project Kōans"  Pdf version [here](https://shanghai-lectures.github.io/slides/SHAIL2017_KoansPDF.pdf).
+See the 2017 intro presentation "Group Project Kōans"  Pdf version [here](https://shanghai-lectures.github.io/slides/SHAIL2017_KoansPDF.pdf ).
 
 
