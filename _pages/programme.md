@@ -105,6 +105,7 @@ permalink: /programme/
 Dept. of Automation, Shanghai Jiao Tong University, China and Scientific Consultant
 Living with Robots Ltd
   * *"How the Body Shapes the Way We Think: 10 Years later"* 
+* The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/RolfPfeifer2017Dec14HBS10yslaterSmall.pdf)
 * The Lecture's video is  [here](https://youtu.be/c8zt257Nu4c).
 * 课程视频在[这里](https://v.youku.com/v_show/id_XMzIzNzAyNTQyNA==.html?spm=a2hzp.8244740.0.0).
 
