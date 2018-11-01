@@ -61,7 +61,7 @@ permalink: /programme/
 * Guest Lecture TBA 
   
 ### Lecture  8: Grab Bag, Summary, Discussion
-* 2016-12-13 09:30 to 11:00 CET
+* 2018-12-13 09:30 to 11:00 CET
 * *Grab Bag, Summary and topics to discuss* 
 * Lecturer: Fabio Bonsignorio
 
