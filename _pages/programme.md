@@ -27,7 +27,7 @@ permalink: /programme/
 
 ### Lecture 3: Embodiment
 * 2018-11-08 09:30 to 11:00 CET 
-* *Intelligent Systems: Properties and Principles* 
+* *The Role of Embodiment in INtelligent Systems* 
 * Lecturer: Fabio Bonsignorio
 
 * Guest lecture TBA 
