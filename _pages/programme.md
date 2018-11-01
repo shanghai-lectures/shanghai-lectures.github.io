@@ -12,13 +12,15 @@ permalink: /programme/
 * 2018-10-25  09:30 to 11:00 CEST 
 * *The Future of Robotics* 
 * Lecturer: Fabio Bonsignorio
-
+ * The Lecture's PDF is [here]().
+* The Lecture's video is [here]().
+* 课程视频在[这里](https://v.youku.com/v_show/id_XMzg5ODgzMjAzMg==.html?spm=a2h0j.11185381.listitem_page1.5!2~A)
 
 ### Lecture 2: Intelligence: things can be seem differently
 * 2018-11-01 09:30 to 11:00 CET 
 * *What we mean when we talk about intelligence?* 
 * Lecturer: Fabio Bonsignorio
-
+* 课程视频在[这里](https://v.youku.com/v_show/id_XMzg5ODgzMzQ4OA==.html?spm=a2h0j.11185381.listitem_page1.5~A)
 
 ### Lecture 3: Embodiment
 * 2018-11-08 09:30 to 11:00 CET 
