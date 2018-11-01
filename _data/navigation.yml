@@ -3,17 +3,14 @@ main:
   - title: "Programme"
     url: /programme/
     
-  - title: "Live Stream"
-    url: https://arcamm.uc3m.es/arcamm_3/liveEvents/show/16
+ # - title: "Live Stream"
+ #   url: https://arcamm.uc3m.es/arcamm_3/liveEvents/show/16
     
-  - title: "EUCognition"
-    url: /eucognition2016/
-
   - title: "Kōans"
     url: /koans/
     
-  - title: "Student Registration"
-    url: https://www.eventbrite.co.uk/e/shanghai-lectures-2017-student-registration-registration-38812771043?ref=ebtn
+  # - title: "Student Registration"
+  #  url: https://www.eventbrite.co.uk/e/shanghai-lectures-2017-student-registration-registration-38812771043?ref=ebtn
 
   - title: "Archives"
     url: https://shanghai-lectures.github.io/archives/index.html
