@@ -21,6 +21,8 @@ permalink: /programme/
 * 2018-11-01 09:30 to 11:00 CET 
 * *What we mean when we talk about intelligence?* 
 * Lecturer: Fabio Bonsignorio
+* The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Lecture02_2018SlidesFabV1.1.pdf).
+* The Lecture's video is [here]().
 * 课程视频在[这里](https://v.youku.com/v_show/id_XMzg5ODgzMzQ4OA==.html?spm=a2h0j.11185381.listitem_page1.5~A)
 
 ### Lecture 3: Embodiment
