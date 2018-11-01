@@ -1,23 +1,23 @@
 ---
 title: "Lecture Programme"
 layout: single
-excerpt: "The lecture programme for the ShanghAI Lectures 2017"
+excerpt: "The lecture programme for the ShanghAI Lectures 2018"
 permalink: /programme/
 ---
 
-### The Lecture Programme for the ShanghAI Lectures 2017 !!! Check back! We will add the still missing slides from the lectures soon!!!
+### The Lecture Programme for the ShanghAI Lectures 2018 !!! Check back! We will add the still missing slides from the lectures soon!!!
 
 
-### Lecture 1: Embodied Intelligence in Natural and Artificial Agents
-* 2017-10-26  09:30 to 11:00 CEST 
-* *Embodied Intelligence in Natural and Artificial Agents: Robotics is coming of age* 
+### Lecture 1: Overview
+* 2018-10-25  09:30 to 11:00 CEST 
+* *The Future of Robotics* 
 * Lecturer: Fabio Bonsignorio
 * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Lecture1_2017Oct26IntroPDF.pdf).
 * Site introductions 
 
-### Lecture 2: Towards a Theory of Embodied Intelligence
-* 2017-11-02 09:30 to 11:00 CET 
-* *Embodiment: concept and models* 
+### Lecture 2: Intelligence: things can be seem differently
+* 2018-11-01 09:30 to 11:00 CET 
+* *What we mean when we talk about intelligence?* 
 * Lecturer: Fabio Bonsignorio
 * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Lecture2_2017Nov2EmbodimentPDF.pdf).
 * Guest lecture by Josh Bongard: 
@@ -27,8 +27,8 @@ permalink: /programme/
 * The Lecture's video is [here](https://youtu.be/PheEp1pkdlg).
 * 课程视频在[这里](https://v.youku.com/v_show/id_XMzI0MzMxNzU1Mg==.html?spm=a2hzp.8244740.0.0)
 
-### Lecture 3: Intelligent Systems: Properties and Principles
-* 2017-11-09 09:30 to 11:00 CET 
+### Lecture 3: Embodiment
+* 2018-11-08 09:30 to 11:00 CET 
 * *Intelligent Systems: Properties and Principles* 
 * Lecturer: Fabio Bonsignorio
 * The Lecture's PDF is [here]( https://shanghai-lectures.github.io/slides/Lecture3_2017Nov9PrinciplesPDF.pdf ).
@@ -40,7 +40,7 @@ permalink: /programme/
 * 课程视频在[这里](http://v.youku.com/v_show/id_XMzIzMTY3NzA0MA==.html?spm=a2h0j.8191423.module_basic_relation.5~5!2~5~5!5~5!2~1~3~A)
 
 ### Lecture 4: Evolution: Cognition from Scratch
-* 2017-11-16 09:30 to 11:00 CET 
+* 2018-11-15 09:30 to 11:00 CET 
 * *Evolution: Cognition from Scratch* 
 * Lecturer: Fabio Bonsignorio
 * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Lecture4_2017Nov16EvolutionCognitionFromScratchPDF.pdf).
@@ -56,7 +56,7 @@ permalink: /programme/
 * 课程视频在[这里](http://v.youku.com/v_show/id_XMzIzMTY3Nzk0OA==.html?spm=a2h0j.8191423.module_basic_relation.5~5!2~5~5!4~5!2~1~3~A)
 
 ### Lecture 5: Morphological Computation, Self-Organization of Behaviors and Adaptive Morphologies
-* 2017-11-23 09:30 to 11:00 CET
+* 2018-11-22 09:30 to 11:00 CET
 * *Morphological Computation, Self-Organization of Behaviors and Adaptive Morphologies* 
 * Lecturer: Fabio Bonsignorio
 * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Lecture5_2017Nov23McPDF.pdf).
@@ -68,7 +68,7 @@ permalink: /programme/
 * 课程视频在[这里](http://v.youku.com/v_show/id_XMzIzMTY4MDMyMA==.html?spm=a2h0j.8191423.module_basic_relation.5~5!2~5~5!3~5!2~1~3~A)
 
 ### Lecture 6: Collective Intelligence: Cognition from Interaction
-* 2017-11-30 09:30 to 11:00 CET 
+* 2018-11-29 09:30 to 11:00 CET 
 * Emerging Intelligence: Cognition from Interaction, Development and Evolution 
 * Lecturer: Fabio Bonsignorio
 * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Lecture6_2017Nov30EmergingPDF.pdf).
@@ -79,9 +79,9 @@ permalink: /programme/
  * The Lecture's video is [here](https://youtu.be/IluQv4EueDY).
  * 课程视频在[这里](http://v.youku.com/v_show/id_XMzIzMTcxMDk3Ng==.html?spm=a2h0j.8191423.module_basic_relation.5~5!2~5~5!5~5!2~1~3~A)
   
-### Lecture 7: The Road Ahead
-* 2017-12-7  09:30 to 11:00 CET
-* *The Road to a New Paradigm Robotics* 
+### Lecture 7: Embodied Intelligence: Principles and open issues
+* 2018-12-6  09:30 to 11:00 CET
+* *Embodied Intelligence: principles and open issues* 
 * Lecturer: Fabio Bonsignorio
 * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Lecture7_2017Dec7TheRoadAheadPDF.pdf )
 * Young Researcher Guest Lecture by Marcello Calisti:
@@ -96,7 +96,7 @@ permalink: /programme/
 * 课程视频在[这里](https://v.youku.com/v_show/id_XMzIzMTQ3NDQ2NA==.html?spm=a2hzp.8244740.0.0)
   
 ### Lecture  8: Grab Bag, Summary, Discussion
-* 2016-12-14 09:30 to 11:00 CET
+* 2016-12-13 09:30 to 11:00 CET
 * *Grab Bag, Summary and topics to discuss* 
 * Lecturer: Fabio Bonsignorio
 * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Lecture8_2017Dec14GrabbagPDF_compressed.pdf)
