@@ -2,7 +2,7 @@
 title: "Lecture Programme"
 layout: single
 excerpt: "The lecture programme for the ShanghAI Lectures 2017"
-permalink: /programme/
+permalink: /2017Program/
 ---
 
 ### The Lecture Programme for the ShanghAI Lectures 2017 !!! 
