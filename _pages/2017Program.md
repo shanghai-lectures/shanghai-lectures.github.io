@@ -76,7 +76,7 @@ permalink: /2017Program/
   * University of Plymouth, Plymouth, UK
   * *"Co-developing brain and body, in the field"* 
   * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/shail_nov2017_Martin_F_Stoelen.pdf).
- * The Lecture's video is [here](https://youtu.be/IluQv4EueDY).
+ * The Lecture's video is <a href="https://youtu.be/IluQv4EueDY" target="_blank">  here </a>.
  * 课程视频在[这里](http://v.youku.com/v_show/id_XMzIzMTcxMDk3Ng==.html?spm=a2h0j.8191423.module_basic_relation.5~5!2~5~5!5~5!2~1~3~A)
   
 ### Lecture 7: The Road Ahead
@@ -92,7 +92,7 @@ permalink: /2017Program/
   * The Bartlett School of Architecture, UCL, London, UK
   * *"Animating Art & Architecture"* 
   * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/shanghAI_lecture_ruairi_glynn.pdf) 
-* The Lecture's video is  [here](https://youtu.be/pKRFItObxjY).
+* The Lecture's video is <a href="https://youtu.be/pKRFItObxjY" target="_blank">  here </a>. 
 * 课程视频在[这里](https://v.youku.com/v_show/id_XMzIzMTQ3NDQ2NA==.html?spm=a2hzp.8244740.0.0)
   
 ### Lecture  8: Grab Bag, Summary, Discussion
@@ -106,5 +106,5 @@ Dept. of Automation, Shanghai Jiao Tong University, China and Scientific Consult
 Living with Robots Ltd
   * *"How the Body Shapes the Way We Think: 10 Years later"* 
 * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/RolfPfeifer2017Dec14HBS10yslaterSmall.pdf)
-* The Lecture's video is  [here](https://youtu.be/c8zt257Nu4c).
+* The Lecture's video is <a href="https://youtu.be/c8zt257Nu4c" target="_blank">  here </a>. 
 * 课程视频在[这里](https://v.youku.com/v_show/id_XMzIzNzAyNTQyNA==.html?spm=a2hzp.8244740.0.0).
