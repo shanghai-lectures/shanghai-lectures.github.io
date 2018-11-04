@@ -24,7 +24,7 @@ permalink: /programme/
   * Vermont Complex Systems Center, University of Vermont, USA
   * *"Evolving and developing soft robots"*
   * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/JoshBongard2017Nov2EvoDeSoRoPDF.pdf).
-* The Lecture's video is [here](https://youtu.be/PheEp1pkdlg).
+* The Lecture's video is <a href="https://youtu.be/PheEp1pkdlg" target="_blank">  here </a>
 * 课程视频在[这里](https://v.youku.com/v_show/id_XMzI0MzMxNzU1Mg==.html?spm=a2hzp.8244740.0.0)
 
 ### Lecture 3: Intelligent Systems: Properties and Principles
