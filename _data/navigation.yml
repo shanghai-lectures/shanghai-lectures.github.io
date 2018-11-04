@@ -7,7 +7,9 @@ main:
  #   url: https://arcamm.uc3m.es/arcamm_3/liveEvents/show/16
  
   - title: " The 2017 Edition "
-    url: https://shanghai-lectures.github.io/_pages/2017Program.md
+    url: /2017Program/
+  
+  # url: https://shanghai-lectures.github.io/_pages/2017Program.md
     
   - title: "Kōans from 2017 Edition (it will be updated)"
     url: /koans/
