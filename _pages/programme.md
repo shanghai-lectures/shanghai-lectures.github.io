@@ -28,39 +28,43 @@ permalink: /programme/
 * 2018-11-08 09:30 to 11:00 CET 
 * *The Role of Embodiment in Intelligent Systems* 
 * Lecturer: Fabio Bonsignorio
-
-* Guest lecture TBA 
-
+* Guest lecture by Amanda Lunt: 
+  * University of Tasmania, Hobart, Australia
+  * *"Thinking About Robotics: Ontology is Not a Dirty Word""*
 
 ### Lecture 4: Evolution: Cognition from Scratch
 * 2018-11-15 09:30 to 11:00 CET 
 * *Evolution: Cognition from Scratch* 
 * Lecturer: Fabio Bonsignorio
-
-* Guest Lecture TBA 
+* Guest lecture by Krzysztof Pomorski: 
+  * University College Dublin, Dublin, Ireland
+  * *"Quantum Computing and Quantum Intelligence"*
 
 
 ### Lecture 5: Morphological Computation, Self-Organization of Behaviors and Adaptive Morphologies
 * 2018-11-22 09:30 to 11:00 CET
 * *Morphological Computation, Self-Organization of Behaviors and Adaptive Morphologies* 
 * Lecturer: Fabio Bonsignorio
-
-* Guest Lecture TBA
+* Guest lecture by Elena Cuoco: 
+  * EGO-Virgo and Scuola Normale Superiore, Pisa, Italy
+  * *"Why using artificial intelligence in the search for gravitational waves?"*
 
 
 ### Lecture 6: Collective Intelligence: Cognition from Interaction
 * 2018-11-29 09:30 to 11:00 CET 
 * Emerging Intelligence: Cognition from Interaction, Development and Evolution 
 * Lecturer: Fabio Bonsignorio
-
-* Guest Lecture TBA 
+* Guest lecture by Joanna Bryson: 
+  * University of Bath, UK and Princeton's Center for Information Technology Policy
+  * *"TBC"*
   
 ### Lecture 7: Embodied Intelligence: Principles and open issues
 * 2018-12-6  09:30 to 11:00 CET
 * *Embodied Intelligence: principles and open issues* 
 * Lecturer: Fabio Bonsignorio
-
-* Guest Lecture TBA 
+* Guest lecture by Yulia Sandamirskaya: 
+  * Institute of Neuroinformatics (INI), UZH / ETH Zurich
+  * *"Neuromorphic Computing"*
   
   
 ### Lecture  8: Grab Bag, Summary, Discussion
