@@ -67,6 +67,11 @@ permalink: /programme/
 * 2018-12-13 09:30 to 11:00 CET
 * *Grab Bag, Summary and topics to discuss* 
 * Lecturer: Fabio Bonsignorio
+* Guest lecture by Josh Bongard: 
+  * Vermont Complex Systems Center, University of Vermont, USA
+  * *"Using evolutionary robotics to study embodied cognition"*
+  * Guest lecture by Edoardo Sinibaldi: 
+  * Italian Institute of Technology (IIT), Genova, Italy
+  * *"Modeling natural and artificial systems for scientific research"*
 
-* Guest lecture  TBA 
 
