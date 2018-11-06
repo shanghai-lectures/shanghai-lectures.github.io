@@ -70,7 +70,7 @@ permalink: /programme/
 * Guest lecture by Josh Bongard: 
   * Vermont Complex Systems Center, University of Vermont, USA
   * *"Using evolutionary robotics to study embodied cognition"*
-  * Guest lecture by Edoardo Sinibaldi: 
+* Guest lecture by Edoardo Sinibaldi: 
   * Italian Institute of Technology (IIT), Genova, Italy
   * *"Modeling natural and artificial systems for scientific research"*
 
