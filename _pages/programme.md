@@ -13,7 +13,7 @@ permalink: /programme/
 * *The Future of Robotics* 
 * Lecturer: Fabio Bonsignorio
  * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Lecture01_2018ShailIntroV1.91OVERVIEWVeryShort-ilovepdf-compressed.pdf).
-* The Lecture's video is <a href="https://youtu.be/AUqmMlOGlpY" target="_blank">  here </a>.
+* The Lecture's video is [here]().
 * 课程视频在[这里](https://v.youku.com/v_show/id_XMzg5ODgzMjAzMg==.html?spm=a2h0j.11185381.listitem_page1.5!2~A)
 
 ### Lecture 2: Intelligence: things can be seem differently
@@ -21,16 +21,20 @@ permalink: /programme/
 * *What we mean when we talk about intelligence?* 
 * Lecturer: Fabio Bonsignorio
 * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Lecture02_2018SlidesFabV1.1.pdf).
-* The Lecture's video is <a href="https://youtu.be/Tz8ue_XL2kU" target="_blank">  here </a>
+* The Lecture's video is [here]().
 * 课程视频在[这里](https://v.youku.com/v_show/id_XMzg5ODgzMzQ4OA==.html?spm=a2h0j.11185381.listitem_page1.5~A)
 
 ### Lecture 3: Embodiment
 * 2018-11-08 09:30 to 11:00 CET 
 * *The Role of Embodiment in Intelligent Systems* 
 * Lecturer: Fabio Bonsignorio
+* The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Lecture3_2018Nov8EmbodimentPDF.pdf).
+* The Lecture's video is [here]().
+* 课程视频在[这里]()
 * Guest lecture by Amanda Lunt: 
   * University of Tasmania, Hobart, Australia
   * *"Thinking About Robotics: Ontology is Not a Dirty Word""*
+  * The Lecture's PDF is [here](https://shanghai-lectures.github.io/Robots_Organisations_and_OntologyALuntNov8GuestLecture.pdf).
 
 ### Lecture 4: Evolution: Cognition from Scratch
 * 2018-11-15 09:30 to 11:00 CET 
