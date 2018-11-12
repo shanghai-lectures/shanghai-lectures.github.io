@@ -29,7 +29,7 @@ permalink: /programme/
 * *The Role of Embodiment in Intelligent Systems* 
 * Lecturer: Fabio Bonsignorio
 * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Lecture3_2018Nov8EmbodimentPDF.pdf).
-* The Lecture's video is [here]().
+* The Lecture's video is [here](https://youtu.be/7bEFbFbegYA).
 * 课程视频在[这里]()
 * Guest lecture by Amanda Lunt: 
   * University of Tasmania, Hobart, Australia
