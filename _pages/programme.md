@@ -42,7 +42,7 @@ permalink: /programme/
 * Lecturer: Fabio Bonsignorio
 * Guest lecture by Krzysztof Pomorski: 
   * University College Dublin, Dublin, Ireland
-  * *"Quantum Computing and Quantum Intelligence"*
+  * *"From Quantum Hardware to Quantum AI"*
 
 
 ### Lecture 5: Morphological Computation, Self-Organization of Behaviors and Adaptive Morphologies
