@@ -13,7 +13,7 @@ permalink: /programme/
 * *The Future of Robotics* 
 * Lecturer: Fabio Bonsignorio
  * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Lecture01_2018ShailIntroV1.91OVERVIEWVeryShort-ilovepdf-compressed.pdf).
-* The Lecture's video is [here](https://www.youtube.com/watch?v=AUqmMlOGlpY).
+* The Lecture's video is <a href="https://www.youtube.com/watch?v=AUqmMlOGlpY" target="_blank">  here </a>.
 * 课程视频在[这里](https://v.youku.com/v_show/id_XMzg5ODgzMjAzMg==.html?spm=a2h0j.11185381.listitem_page1.5!2~A)
 
 ### Lecture 2: Intelligence: things can be seem differently
