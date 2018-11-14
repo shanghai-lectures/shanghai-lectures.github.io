@@ -21,7 +21,7 @@ permalink: /programme/
 * *What we mean when we talk about intelligence?* 
 * Lecturer: Fabio Bonsignorio
 * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Lecture02_2018SlidesFabV1.1.pdf).
-* The Lecture's video is [here](https://www.youtube.com/watch?v=Tz8ue_XL2kU).
+* The Lecture's video is <a href="https://www.youtube.com/watch?v=Tz8ue_XL2kU" target="_blank">  here </a>. 
 * 课程视频在[这里](https://v.youku.com/v_show/id_XMzg5ODgzMzQ4OA==.html?spm=a2h0j.11185381.listitem_page1.5~A)
 
 ### Lecture 3: Embodiment
@@ -29,7 +29,7 @@ permalink: /programme/
 * *The Role of Embodiment in Intelligent Systems* 
 * Lecturer: Fabio Bonsignorio
 * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Lecture3_2018Nov8EmbodimentPDF.pdf).
-* The Lecture's video is [here](https://youtu.be/7bEFbFbegYA).
+* The Lecture's video is <a href="https://www.youtube.com/watch?v=7bEFbFbegYA" target="_blank">  here </a>. 
 * 课程视频在[这里](http://v.youku.com/v_show/id_XMzkxNTg5MTgwNA==.html?spm=a2hzp.8244740.0.0)
 * Guest lecture by Amanda Lunt: 
   * University of Tasmania, Hobart, Australia
