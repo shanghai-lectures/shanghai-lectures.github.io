@@ -41,7 +41,7 @@ permalink: /programme/
 * *Evolution: Cognition from Scratch* 
 * Lecturer: Fabio Bonsignorio
 * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Lecture4_2018Nov15EvolutionCognitionFromScratchPDF.pdf).
-* The Lecture's video is [here]<>. 
+* The Lecture's video is <a href="" target="_blank">  here </a>. 
 * 课程视频在[这里]()
 * Guest lecture by Krzysztof Pomorski: 
   * University College Dublin, Dublin, Ireland
