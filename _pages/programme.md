@@ -40,10 +40,13 @@ permalink: /programme/
 * 2018-11-15 09:30 to 11:00 CET 
 * *Evolution: Cognition from Scratch* 
 * Lecturer: Fabio Bonsignorio
+* The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Lecture4_2018Nov15EvolutionCognitionFromScratchPDF.pdf).
+* The Lecture's video is <>. 
+* 课程视频在[这里]()
 * Guest lecture by Krzysztof Pomorski: 
   * University College Dublin, Dublin, Ireland
   * *"From Quantum Hardware to Quantum AI"*
-
+  * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/ShanghaiAI_15-11-2018_qAIKrzysztofPomorskiPDF.pdf).
 
 ### Lecture 5: Morphological Computation, Self-Organization of Behaviors and Adaptive Morphologies
 * 2018-11-22 09:30 to 11:00 CET
