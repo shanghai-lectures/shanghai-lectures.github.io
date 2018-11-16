@@ -80,7 +80,7 @@ permalink: /programme/
 * Lecturer: Fabio Bonsignorio
 * Guest lecture by Edoardo Sinibaldi: 
   * Italian Institute of Technology (IIT), Genova, Italy
-  * *"Modeling natural and artificial systems for scientific research"*
+  * *"Model-based orienteering: (selected topics on) where to go, where not to go, and imaginative trails"*
 * Guest lecture by Josh Bongard: 
   * Vermont Complex Systems Center, University of Vermont, USA
   * *"Using evolutionary robotics to study embodied cognition"*
