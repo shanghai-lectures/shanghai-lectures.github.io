@@ -70,8 +70,8 @@ permalink: /programme/
 * *Embodied Intelligence: principles and open issues* 
 * Lecturer: Fabio Bonsignorio
 * Guest lecture by Yulia Sandamirskaya: 
-  * Institute of Neuroinformatics (INI), UZH / ETH Zurich
-  * *"Neuromorphic Computing"*
+  * Institute of Neuroinformatics (INI), University of Zurich / ETH Zurich
+  * *"Neuromorphic Computing: Embodiment of Neuronal Dynamics"*
   
   
 ### Lecture  8: Grab Bag, Summary, Discussion
