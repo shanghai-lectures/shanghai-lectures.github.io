@@ -63,7 +63,7 @@ permalink: /programme/
 * Lecturer: Fabio Bonsignorio
 * Guest lecture by Joanna Bryson: 
   * University of Bath, UK and Princeton's Center for Information Technology Policy
-  * *"TBC"*
+  * *"Artificial Intelligence and a Politically Sustainable Economy"*
   
 ### Lecture 7: Embodied Intelligence: Principles and open issues
 * 2018-12-6  09:30 to 11:00 CET
