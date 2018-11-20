@@ -42,7 +42,7 @@ permalink: /programme/
 * Lecturer: Fabio Bonsignorio
 * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Lecture4_2018Nov15EvolutionCognitionFromScratchPDF.pdf).
 * The Lecture's video is <a href="https://www.youtube.com/watch?v=mc7gctooccE" target="_blank">  here </a>. 
-* 课程视频在[这里]()
+* 课程视频在[这里](https://v.youku.com/v_show/id_XMzkyMTIyNDI0MA==.html?spm=a2hzp.8244740.0.0)
 * Guest lecture by Krzysztof Pomorski: 
   * University College Dublin, Dublin, Ireland
   * *"From Quantum Hardware to Quantum AI"*
