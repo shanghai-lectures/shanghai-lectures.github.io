@@ -52,7 +52,7 @@ permalink: /programme/
 * 2018-11-22 09:30 to 11:00 CET
 * *Morphological Computation, Self-Organization of Behaviors and Adaptive Morphologies* 
 * Lecturer: Fabio Bonsignorio
-* Guest lecture by Elena Cuoco: 
+* Guest lecture by Elena Cuoco MOVED TO NEXT THURSDAY (Lecturer was sick): 
   * EGO-Virgo and Scuola Normale Superiore, Pisa, Italy
   * *"Why using artificial intelligence in the search for gravitational waves?"*
 
@@ -61,6 +61,9 @@ permalink: /programme/
 * 2018-11-29 09:30 to 11:00 CET 
 * Emerging Intelligence: Cognition from Interaction, Development and Evolution 
 * Lecturer: Fabio Bonsignorio
+* Guest lecture by Elena Cuoco (MOVED TO Previous THURSDAY, Lecturer was sick): 
+  * EGO-Virgo and Scuola Normale Superiore, Pisa, Italy
+  * *"Why using artificial intelligence in the search for gravitational waves?"*
 * Guest lecture by Joanna Bryson: 
   * University of Bath, UK and Princeton's Center for Information Technology Policy
   * *"Artificial Intelligence and a Politically Sustainable Economy"*
