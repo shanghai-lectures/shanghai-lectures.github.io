@@ -61,7 +61,7 @@ permalink: /programme/
 * 2018-11-29 09:30 to 11:00 CET 
 * Emerging Intelligence: Cognition from Interaction, Development and Evolution 
 * Lecturer: Fabio Bonsignorio
-* Guest lecture by Elena Cuoco (MOVED TO Previous THURSDAY, Lecturer was sick): 
+* Guest lecture by Elena Cuoco (MOVED FROM Previous THURSDAY, Lecturer was sick): 
   * EGO-Virgo and Scuola Normale Superiore, Pisa, Italy
   * *"Why using artificial intelligence in the search for gravitational waves?"*
 * Guest lecture by Joanna Bryson: 
