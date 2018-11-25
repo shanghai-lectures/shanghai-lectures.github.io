@@ -52,7 +52,7 @@ permalink: /programme/
 * 2018-11-22 09:30 to 11:00 CET
 * *Morphological Computation, Self-Organization of Behaviors and Adaptive Morphologies* 
 * Lecturer: Fabio Bonsignorio
-* The Lecture's PDF is [here]().
+* The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Lecture5_2018Nov22McPDF.pdf).
 * The Lecture's video is <a href="https://youtu.be/axQWURwv_Oo" target="_blank">  here </a>. 
 * 课程视频在[这里]()
 * Guest lecture by Elena Cuoco MOVED TO NEXT THURSDAY (Lecturer was sick): 
