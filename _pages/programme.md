@@ -71,7 +71,7 @@ permalink: /programme/
   * University of Bath, UK and Princeton's Center for Information Technology Policy
   * *"Artificial Intelligence and a Politically Sustainable Economy"*
 
-### ---NO LECTURE ON 2018-12-6---
+### NO LECTURE ON 2018-12-6
 
 ### Lecture 7: Embodied Intelligence: Principles and open issues
 * 2018-12-13  09:30 to 11:00 CET
@@ -84,7 +84,7 @@ permalink: /programme/
   * Vermont Complex Systems Center, University of Vermont, USA
   * *"Using evolutionary robotics to study embodied cognition"*
   
-  ### Lecture  8: Grab Bag, Summary, Discussion
+### Lecture  8: Grab Bag, Summary, Discussion
 * 2018-12-20 09:30 to 11:00 CET
 * *Grab Bag, Summary and topics to discuss* 
 * Lecturer: Fabio Bonsignorio
