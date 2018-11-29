@@ -70,25 +70,26 @@ permalink: /programme/
 * Guest lecture by Joanna Bryson: 
   * University of Bath, UK and Princeton's Center for Information Technology Policy
   * *"Artificial Intelligence and a Politically Sustainable Economy"*
-  
+
+### ---NO LECTURE ON 2018-12-6---
+
 ### Lecture 7: Embodied Intelligence: Principles and open issues
-* 2018-12-6  09:30 to 11:00 CET
+* 2018-12-13  09:30 to 11:00 CET
 * *Embodied Intelligence: principles and open issues* 
-* Lecturer: Fabio Bonsignorio
-* Guest lecture by Yulia Sandamirskaya: 
-  * Institute of Neuroinformatics (INI), University of Zurich / ETH Zurich
-  * *"Neuromorphic Computing: Embodiment of Neuronal Dynamics"*
-  
-  
-### Lecture  8: Grab Bag, Summary, Discussion
-* 2018-12-13 09:30 to 11:00 CET
-* *Grab Bag, Summary and topics to discuss* 
-* Lecturer: Fabio Bonsignorio
+* Lecturer: Fabio Bonsignorio  
 * Guest lecture by Edoardo Sinibaldi: 
   * Italian Institute of Technology (IIT), Genova, Italy
   * *"Model-based orienteering: (selected topics on) where to go, where not to go, and imaginative trails"*
 * Guest lecture by Josh Bongard: 
   * Vermont Complex Systems Center, University of Vermont, USA
   * *"Using evolutionary robotics to study embodied cognition"*
+  
+  ### Lecture  8: Grab Bag, Summary, Discussion
+* 2018-12-20 09:30 to 11:00 CET
+* *Grab Bag, Summary and topics to discuss* 
+* Lecturer: Fabio Bonsignorio
+* Guest lecture by Yulia Sandamirskaya: 
+  * Institute of Neuroinformatics (INI), University of Zurich / ETH Zurich
+  * *"Neuromorphic Computing: Embodiment of Neuronal Dynamics"*
 
 
