@@ -66,7 +66,7 @@ permalink: /programme/
 * Lecturer: Fabio Bonsignorio
 * The Lecture's PDF is [here]().
 * The Lecture's video is <a href="https://youtu.be/yP60L80nqQ4" target="_blank">  here </a>. 
-* 课程视频在[这里]()
+* 课程视频在[这里](https://v.youku.com/v_show/id_XMzk0OTQ1NDIwNA==.html?spm=a2h3j.8428770.3416059.1)
 * Guest lecture by Elena Cuoco (MOVED FROM Previous THURSDAY, Lecturer was sick): 
   * EGO-Virgo and Scuola Normale Superiore, Pisa, Italy
   * *"Why using artificial intelligence in the search for gravitational waves?"*
