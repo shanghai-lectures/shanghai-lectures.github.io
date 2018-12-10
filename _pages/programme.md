@@ -58,18 +58,18 @@ permalink: /programme/
 * Guest lecture by Elena Cuoco MOVED TO NEXT THURSDAY (Lecturer was sick): 
   * EGO-Virgo and Scuola Normale Superiore, Pisa, Italy
   * *"Why using artificial intelligence in the search for gravitational waves?"*
-  * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/ECuoco_MLGW.pdf).
+  
         
 ### Lecture 6: Collective Intelligence: Cognition from Interaction
 * 2018-11-29 09:30 to 11:00 CET 
 * Emerging Intelligence: Cognition from Interaction, Development and Evolution 
 * Lecturer: Fabio Bonsignorio
-* The Lecture's PDF is [here]().
 * The Lecture's video is <a href="https://youtu.be/yP60L80nqQ4" target="_blank">  here </a>. 
 * 课程视频在[这里](https://v.youku.com/v_show/id_XMzk0OTQ1NDIwNA==.html?spm=a2h3j.8428770.3416059.1)
 * Guest lecture by Elena Cuoco (MOVED FROM Previous THURSDAY, Lecturer was sick): 
   * EGO-Virgo and Scuola Normale Superiore, Pisa, Italy
   * *"Why using artificial intelligence in the search for gravitational waves?"*
+  * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/ECuoco_MLGW.pdf).
 * Guest lecture by Joanna Bryson: 
   * University of Bath, UK and Princeton's Center for Information Technology Policy
   * *"Artificial Intelligence and a Politically Sustainable Economy"*
