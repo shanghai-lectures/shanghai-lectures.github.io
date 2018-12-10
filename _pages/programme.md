@@ -73,7 +73,8 @@ permalink: /programme/
 * Guest lecture by Joanna Bryson: 
   * University of Bath, UK and Princeton's Center for Information Technology Policy
   * *"Artificial Intelligence and a Politically Sustainable Economy"*
-
+  * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Bryson ShanghAI November 2018.pdf).
+        
 ### NO LECTURE ON 2018-12-6
 
 ### Lecture 7: Embodied Intelligence: Principles and open issues
