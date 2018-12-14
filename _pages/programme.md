@@ -85,11 +85,11 @@ permalink: /programme/
 * Guest lecture by Edoardo Sinibaldi: 
   * Italian Institute of Technology (IIT), Genova, Italy
   * *"Model-based orienteering: (selected topics on) where to go, where not to go, and imaginative trails"*
-   * The Lecture's PDF is [here]().
+   * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Sinibaldi_ShanghAI_v13.pdf).
 * Guest lecture by Josh Bongard: 
   * Vermont Complex Systems Center, University of Vermont, USA
   * *"Using evolutionary robotics to study embodied cognition"*
-   * The Lecture's PDF is [here]().
+   * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/2018_Bongard_ShanghAI_Lecture.pdf).
   
 ### Lecture  8: Grab Bag, Summary, Discussion
 * 2018-12-20 09:30 to 11:00 CET
