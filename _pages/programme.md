@@ -80,12 +80,16 @@ permalink: /programme/
 * 2018-12-13  09:30 to 11:00 CET
 * *Embodied Intelligence: principles and open issues* 
 * Lecturer: Fabio Bonsignorio  
+* The Lecture's video is <a href="https://youtu.be/grF0wbqnc7c" target="_blank">  here </a>.
+* 课程视频在[这里]()
 * Guest lecture by Edoardo Sinibaldi: 
   * Italian Institute of Technology (IIT), Genova, Italy
   * *"Model-based orienteering: (selected topics on) where to go, where not to go, and imaginative trails"*
+   * The Lecture's PDF is [here]().
 * Guest lecture by Josh Bongard: 
   * Vermont Complex Systems Center, University of Vermont, USA
   * *"Using evolutionary robotics to study embodied cognition"*
+   * The Lecture's PDF is [here]().
   
 ### Lecture  8: Grab Bag, Summary, Discussion
 * 2018-12-20 09:30 to 11:00 CET
