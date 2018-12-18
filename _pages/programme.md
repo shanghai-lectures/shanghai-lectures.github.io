@@ -81,7 +81,7 @@ permalink: /programme/
 * *Embodied Intelligence: principles and open issues* 
 * Lecturer: Fabio Bonsignorio  
 * The Lecture's video is <a href="https://youtu.be/grF0wbqnc7c" target="_blank">  here </a>.
-* 课程视频在[这里]()
+* 课程视频在[这里](http://v.youku.com/v_show/id_XMzk2NDIzNzkwNA==.html?spm=a2h3j.8428770.3416059.1)
 * Guest lecture by Edoardo Sinibaldi: 
   * Italian Institute of Technology (IIT), Genova, Italy
   * *"Model-based orienteering: (selected topics on) where to go, where not to go, and imaginative trails"*
