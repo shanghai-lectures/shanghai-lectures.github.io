@@ -95,8 +95,12 @@ permalink: /programme/
 * 2018-12-20 09:30 to 11:00 CET
 * *Grab Bag, Summary and topics to discuss* 
 * Lecturer: Fabio Bonsignorio
+* The Lecture's video is <a href="https://youtu.be/5Vyj1Hqxz8k" target="_blank">  here </a>.
+* 课程视频在[这里]()
+* The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Lecture8_Dec2018GB.pdf).
 * Guest lecture by Yulia Sandamirskaya: 
   * Institute of Neuroinformatics (INI), University of Zurich / ETH Zurich
   * *"Neuromorphic Computing: Embodiment of Neuronal Dynamics"*
+  * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Lecture_CogAndLearning.pdf).
 
 
