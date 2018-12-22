@@ -5,8 +5,7 @@ excerpt: "The lecture programme for the ShanghAI Lectures 2018"
 permalink: /programme/
 ---
 
-### The Lecture Programme for the ShanghAI Lectures 2018 !!! Check back! We will add the still missing slides from the lectures soon!!!
-
+### The Lecture Programme, the video recordings and the slides from the ShanghAI Lectures 2018. Be ready for 2019's 10th Anniversary Edition!
 
 ### Lecture 1: Overview
 * 2018-10-25  09:30 to 11:00 CEST 
