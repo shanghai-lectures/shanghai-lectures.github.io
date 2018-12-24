@@ -95,7 +95,7 @@ permalink: /programme/
 * *Grab Bag, Summary and topics to discuss* 
 * Lecturer: Fabio Bonsignorio
 * The Lecture's video is <a href="https://youtu.be/5Vyj1Hqxz8k" target="_blank">  here </a>.
-* 课程视频在[这里]()
+* 课程视频在[这里](https://v.youku.com/v_show/id_XMzk3MzcxMzU4MA==.html?spm=a2hzp.8244740.0.0)
 * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Lecture8_Dec2018GB.pdf).
 * Guest lecture by Yulia Sandamirskaya: 
   * Institute of Neuroinformatics (INI), University of Zurich / ETH Zurich
