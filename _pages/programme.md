@@ -1,105 +1,65 @@
 ---
 title: "Lecture Programme"
 layout: single
-excerpt: "The lecture programme for the ShanghAI Lectures 2018"
+excerpt: "The lecture programme for the ShanghAI Lectures 2019"
 permalink: /programme/
 ---
 
-### The Lecture Programme, the video recordings and the slides from the ShanghAI Lectures 2018. Be ready for 2019's 10th Anniversary Edition!
+### The Lecture Programme of the 2019's 10th Anniversary Edition! Check back soon, it will be updated!!!
 
-### Lecture 1: Overview
-* 2018-10-25  09:30 to 11:00 CEST 
+### Lecture 0: Overview
+* 2019-10-17  09:30 to 11:00 CEST 
 * *The Future of Robotics* 
 * Lecturer: Fabio Bonsignorio
- * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Lecture01_2018ShailIntroV1.91OVERVIEWVeryShort-ilovepdf-compressed.pdf).
-* The Lecture's video is <a href="https://www.youtube.com/watch?v=AUqmMlOGlpY" target="_blank">  here </a>.
-* 课程视频在[这里](https://v.youku.com/v_show/id_XMzg5ODgzMjAzMg==.html?spm=a2h0j.11185381.listitem_page1.5!2~A)
 
-### Lecture 2: Intelligence: things can be seem differently
-* 2018-11-01 09:30 to 11:00 CET 
+### NO LECTURE ON 2019-10-24
+
+### Lecture 1: Intelligence: things can be seen differently
+* 2019-10-31 09:30 to 11:00 CET 
 * *What we mean when we talk about intelligence?* 
 * Lecturer: Fabio Bonsignorio
-* The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Lecture02_2018SlidesFabV1.1.pdf).
-* The Lecture's video is <a href="https://www.youtube.com/watch?v=Tz8ue_XL2kU" target="_blank">  here </a>. 
-* 课程视频在[这里](https://v.youku.com/v_show/id_XMzg5ODgzMzQ4OA==.html?spm=a2h0j.11185381.listitem_page1.5~A)
+* Guest lecture by Amit Kumar Pandey: 
+  * Hanson Robotics, Hong Kong, China
+  * *"The Future of Social Robotics""*
 
-### Lecture 3: Embodiment
-* 2018-11-08 09:30 to 11:00 CET 
+### Lecture 2: Embodiment
+* 2019-11-07 09:30 to 11:00 CET 
 * *The Role of Embodiment in Intelligent Systems* 
 * Lecturer: Fabio Bonsignorio
-* The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Lecture3_2018Nov8EmbodimentPDF.pdf).
-* The Lecture's video is <a href="https://www.youtube.com/watch?v=7bEFbFbegYA" target="_blank">  here </a>. 
-* 课程视频在[这里](http://v.youku.com/v_show/id_XMzkxNTg5MTgwNA==.html?spm=a2hzp.8244740.0.0)
-* Guest lecture by Amanda Lunt: 
-  * University of Tasmania, Hobart, Australia
-  * *"Thinking About Robotics: Ontology is Not a Dirty Word""*
-  * The Lecture's PDF is [here](https://shanghai-lectures.github.io/Robots_Organisations_and_OntologyALuntNov8GuestLecture.pdf).
+* Guest lecture: TBA 
 
-### Lecture 4: Evolution: Cognition from Scratch
-* 2018-11-15 09:30 to 11:00 CET 
-* *Evolution: Cognition from Scratch* 
+### NO LECTURE ON 2019-11-14
+
+### Lecture 3: Evolution: Cognition from Scratch
+* 2019-11-21 09:30 to 11:00 CET 
+* *Emerging Intelligence: Cognition from Interaction, Development and Evolution* 
 * Lecturer: Fabio Bonsignorio
-* The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Lecture4_2018Nov15EvolutionCognitionFromScratchPDF.pdf).
-* The Lecture's video is <a href="https://www.youtube.com/watch?v=mc7gctooccE" target="_blank">  here </a>. 
-* 课程视频在[这里](https://v.youku.com/v_show/id_XMzkyMTIyNDI0MA==.html?spm=a2hzp.8244740.0.0)
-* Guest lecture by Krzysztof Pomorski: 
-  * University College Dublin, Dublin, Ireland
-  * *"From Quantum Hardware to Quantum AI"*
-  * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/ShanghaiAI_15-11-2018_qAIKrzysztofPomorskiPDF.pdf).
+*  Guest lecture: TBA 
 
-### Lecture 5: Morphological Computation, Self-Organization of Behaviors and Adaptive Morphologies
-* 2018-11-22 09:30 to 11:00 CET
+### Lecture 4: Morphological Computation, Self-Organization of Behaviors and Adaptive Morphologies
+* 2019-11-28 09:30 to 11:00 CET
 * *Morphological Computation, Self-Organization of Behaviors and Adaptive Morphologies* 
 * Lecturer: Fabio Bonsignorio
-* The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Lecture5_2018Nov22McPDF.pdf).
-* The Lecture's video is <a href="https://youtu.be/axQWURwv_Oo" target="_blank">  here </a>. 
-* 课程视频在[这里](https://v.youku.com/v_show/id_XMzkzNjM4MTczNg==.html?spm=a2hzp.8244740.0.0)
-* Guest lecture by Elena Cuoco MOVED TO NEXT THURSDAY (Lecturer was sick): 
-  * EGO-Virgo and Scuola Normale Superiore, Pisa, Italy
-  * *"Why using artificial intelligence in the search for gravitational waves?"*
- 
-### Lecture 6: Collective Intelligence: Cognition from Interaction
-* 2018-11-29 09:30 to 11:00 CET 
-* Emerging Intelligence: Cognition from Interaction, Development and Evolution 
-* Lecturer: Fabio Bonsignorio
-* The Lecture's video is <a href="https://youtu.be/yP60L80nqQ4" target="_blank">  here </a>. 
-* 课程视频在[这里](https://v.youku.com/v_show/id_XMzk0OTQ1NDIwNA==.html?spm=a2h3j.8428770.3416059.1)
-* Guest lecture by Elena Cuoco (MOVED FROM Previous THURSDAY, Lecturer was sick): 
-  * EGO-Virgo and Scuola Normale Superiore, Pisa, Italy
-  * *"Why using artificial intelligence in the search for gravitational waves?"*
-  * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/ECuoco_MLGW.pdf).
-* Guest lecture by Joanna Bryson: 
-  * University of Bath, UK and Princeton's Center for Information Technology Policy
-  * *"Artificial Intelligence and a Politically Sustainable Economy"*
-  * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Bryson_ShanghAI_November_2018.pdf).
-        
-### NO LECTURE ON 2018-12-6
+*  Guest lecture: TBA 
 
-### Lecture 7: Embodied Intelligence: Principles and open issues
-* 2018-12-13  09:30 to 11:00 CET
+### Lecture 5: Machine Learning and Deep Learning: an Embodied AI perspective
+* 2012-12-5 09:30 to 11:00 CET 
+* *Machine Learning and Deep Learning: an Embodied AI Perspective* 
+* Lecturer: Fabio Bonsignorio
+*  Guest lecture: TBA 
+
+
+### Lecture 6: Embodied Intelligence: Principles and open issues
+* 2019-12-19  09:30 to 11:00 CET
 * *Embodied Intelligence: principles and open issues* 
 * Lecturer: Fabio Bonsignorio  
-* The Lecture's video is <a href="https://youtu.be/grF0wbqnc7c" target="_blank">  here </a>.
-* 课程视频在[这里](http://v.youku.com/v_show/id_XMzk2NDIzNzkwNA==.html?spm=a2h3j.8428770.3416059.1)
-* Guest lecture by Edoardo Sinibaldi: 
-  * Italian Institute of Technology (IIT), Genova, Italy
-  * *"Model-based orienteering: (selected topics on) where to go, where not to go, and imaginative trails"*
-   * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Sinibaldi_ShanghAI_v13.pdf).
-* Guest lecture by Josh Bongard: 
-  * Vermont Complex Systems Center, University of Vermont, USA
-  * *"Using evolutionary robotics to study embodied cognition"*
-   * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/2018_Bongard_ShanghAI_Lecture.pdf).
+*  Guest lecture: TBA 
+
   
-### Lecture  8: Grab Bag, Summary, Discussion
+### Lecture  7: Grab Bag, Summary, Discussion
 * 2018-12-20 09:30 to 11:00 CET
 * *Grab Bag, Summary and topics to discuss* 
 * Lecturer: Fabio Bonsignorio
-* The Lecture's video is <a href="https://youtu.be/5Vyj1Hqxz8k" target="_blank">  here </a>.
-* 课程视频在[这里](https://v.youku.com/v_show/id_XMzk3MzcxMzU4MA==.html?spm=a2hzp.8244740.0.0)
-* The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Lecture8_Dec2018GB.pdf).
-* Guest lecture by Yulia Sandamirskaya: 
-  * Institute of Neuroinformatics (INI), University of Zurich / ETH Zurich
-  * *"Neuromorphic Computing: Embodiment of Neuronal Dynamics"*
-  * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Lecture_CogAndLearning.pdf).
+*  Guest lecture: TBA 
 
 
