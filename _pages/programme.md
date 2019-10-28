@@ -43,7 +43,7 @@ permalink: /programme/
 *  Guest lecture: TBA 
 
 ### Lecture 5: Machine Learning and Deep Learning: an Embodied AI perspective
-* 2012-12-5 09:30 to 11:00 CET 
+* 2019-12-5 09:30 to 11:00 CET 
 * *Machine Learning and Deep Learning: an Embodied AI Perspective* 
 * Lecturer: Fabio Bonsignorio
 *  Guest lecture: TBA 
