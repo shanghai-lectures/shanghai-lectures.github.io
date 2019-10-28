@@ -2,7 +2,7 @@
 title: "Lecture Programme 2018"
 layout: single
 excerpt: "The lecture programme for the ShanghAI Lectures 2018"
-permalink: /programme2018/
+permalink: /2018Program/
 ---
 
 ### The Lecture Programme, the video recordings and the slides from the ShanghAI Lectures 2018. Be ready for 2019's 10th Anniversary Edition!
