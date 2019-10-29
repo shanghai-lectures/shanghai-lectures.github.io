@@ -52,14 +52,14 @@ permalink: /programme/
 
 
 ### Lecture 6: Embodied Intelligence: Principles and open issues
-* 2019-12-19  09:30 to 11:00 CET
+* 2019-12-12  09:30 to 11:00 CET
 * *Embodied Intelligence: principles and open issues* 
 * Lecturer: Fabio Bonsignorio  
 *  Guest lecture: TBA 
 
   
 ### Lecture  7: Grab Bag, Summary, Discussion
-* 2018-12-20 09:30 to 11:00 CET
+* 2019-12-19 09:30 to 11:00 CET
 * *Grab Bag, Summary and topics to discuss* 
 * Lecturer: Fabio Bonsignorio
 *  Guest lecture: TBA 
