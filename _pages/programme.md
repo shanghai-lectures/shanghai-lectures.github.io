@@ -20,13 +20,15 @@ permalink: /programme/
 * Lecturer: Fabio Bonsignorio
 * Guest lecture by Amit Kumar Pandey: 
   * Hanson Robotics, Hong Kong, China
-  * *"The Future of Social Robotics""*
+  * *"The Future of Social Robotics"*
 
 ### Lecture 2: Embodiment
 * 2019-11-07 09:30 to 11:00 CET 
 * *The Role of Embodiment in Intelligent Systems* 
 * Lecturer: Fabio Bonsignorio
-* Guest lecture: TBA 
+** Guest lecture by Vera Zabotkina: 
+  * Russian University for the Humanities, Moscow (Russia)
+  * *"Cognitive Mechanisms of language creativity"*
 
 ### NO LECTURE ON 2019-11-14
 
