@@ -48,7 +48,9 @@ permalink: /programme/
 * 2019-12-5 09:30 to 11:00 CET 
 * *Machine Learning and Deep Learning: an Embodied AI Perspective* 
 * Lecturer: Fabio Bonsignorio
-*  Guest lecture: TBA 
+*  Guest lecture by Kyu-Jin Cho 
+* Seoul National University, Seoul, Korea
+  * *"The Future of Soft Robotics"*
 
 
 ### Lecture 6: Embodied Intelligence: Principles and open issues
