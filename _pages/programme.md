@@ -27,7 +27,7 @@ permalink: /programme/
 * *The Role of Embodiment in Intelligent Systems* 
 * Lecturer: Fabio Bonsignorio
 * Guest lecture by Vera Zabotkina: 
-  * Russian University for the Humanities, Moscow (Russia)
+  * Russian University for the Humanities, Moscow, Russia
   * *"Cognitive Mechanisms of language creativity"*
 
 ### NO LECTURE ON 2019-11-14
@@ -42,7 +42,9 @@ permalink: /programme/
 * 2019-11-28 09:30 to 11:00 CET
 * *Morphological Computation, Self-Organization of Behaviors and Adaptive Morphologies* 
 * Lecturer: Fabio Bonsignorio
-*  Guest lecture: TBA 
+* Guest lecture by Ioannis Ieropoulos: 
+  * Bristol Robotics Lab, University of the West of England, Bristol, UK
+  * *"Microbial Fuel Cells"* 
 
 ### Lecture 5: Machine Learning and Deep Learning: an Embodied AI perspective
 * 2019-12-5 09:30 to 11:00 CET 
@@ -64,6 +66,8 @@ permalink: /programme/
 * 2019-12-19 09:30 to 11:00 CET
 * *Grab Bag, Summary and topics to discuss* 
 * Lecturer: Fabio Bonsignorio
-*  Guest lecture: TBA 
+* Guest lecture by Josh Bongard 
+* University of Vermont, Burlington (VT), USA
+  * *"Evolutionary Robotics"*
 
 
