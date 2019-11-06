@@ -24,19 +24,18 @@ permalink: /programme/
 
 ### Lecture 2: Embodiment
 * 2019-11-07 09:30 to 11:00 CET 
-* *The Role of Embodiment in Intelligent Systems* 
+* *The Role of Embodiment in Intelligent Systems (two sessions with 10 minutes break at 10:10 CET)* 
 * Lecturer: Fabio Bonsignorio
-* Guest lecture by Vera Zabotkina: 
-  * Russian University for the Humanities, Moscow, Russia
-  * *"Cognitive Mechanisms of language creativity"*
+  
 
 ### NO LECTURE ON 2019-11-14
 
 ### Lecture 3: Evolution: Cognition from Scratch
 * 2019-11-21 09:30 to 11:00 CET 
 * *Emerging Intelligence: Cognition from Interaction, Development and Evolution* 
-* Lecturer: Fabio Bonsignorio
-*  Guest lecture: TBA 
+* Guest lecture by Vera Zabotkina(moved from 11-7)): 
+  * Russian University for the Humanities, Moscow, Russia
+  * *"Cognitive Mechanisms of language creativity"*
 
 ### Lecture 4: Morphological Computation, Self-Organization of Behaviors and Adaptive Morphologies
 * 2019-11-28 09:30 to 11:00 CET
