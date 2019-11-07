@@ -35,7 +35,7 @@ permalink: /programme/
 * *Emerging Intelligence: Cognition from Interaction, Development and Evolution* 
 * Lecturer: Fabio Bonsignorio
 * *"Remarks on the Chinese Room Experiment"* 
-* Live from the students of the Northwestern Polytechnical University, Xian (China)
+* Live from the students of the Northwestern Polytechnical University, Xian, China
 * Guest lecture by Vera Zabotkina(moved from 11-7)): 
   * Russian University for the Humanities, Moscow, Russia
   * *"Cognitive Mechanisms of language creativity"*
