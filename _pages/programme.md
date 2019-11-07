@@ -38,7 +38,7 @@ permalink: /programme/
 * Live from the students of the Northwestern Polytechnical University, Xian, China
 * Guest lecture by Vera Zabotkina(moved from 11-7)): 
   * Russian University for the Humanities, Moscow, Russia
-  * *"Cognitive Mechanisms of language creativity"*
+  * *"Cognitive Mechanisms of language Creativity"*
 
 ### Lecture 4: Morphological Computation, Self-Organization of Behaviors and Adaptive Morphologies
 * 2019-11-28 09:30 to 11:00 CET
@@ -61,9 +61,10 @@ permalink: /programme/
 * 2019-12-12  09:30 to 11:00 CET
 * *Embodied Intelligence: principles and open issues* 
 * Lecturer: Fabio Bonsignorio  
-*  Guest lecture: TBA 
-
+*  Guest lecture by Dominik Boesl 
+*  HDBW-Hochschule der Bayerischen Wirtschaft and Festo AG, Munich, Germany
   
+
 ### Lecture  7: Grab Bag, Summary, Discussion
 * 2019-12-19 09:30 to 11:00 CET
 * *Grab Bag, Summary and topics to discuss* 
