@@ -33,6 +33,9 @@ permalink: /programme/
 ### Lecture 3: Evolution: Cognition from Scratch
 * 2019-11-21 09:30 to 11:00 CET 
 * *Emerging Intelligence: Cognition from Interaction, Development and Evolution* 
+* Lecturer: Fabio Bonsignorio
+* *"Remarks on the Chinese Room Experiment"* 
+* Live from the students of the Northwestern Polytechnical University, Xian (China)
 * Guest lecture by Vera Zabotkina(moved from 11-7)): 
   * Russian University for the Humanities, Moscow, Russia
   * *"Cognitive Mechanisms of language creativity"*
