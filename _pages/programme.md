@@ -47,30 +47,28 @@ permalink: /programme/
 * Guest lecture by Ioannis Ieropoulos: 
   * Bristol Robotics Lab, University of the West of England, Bristol, UK
   * *"Microbial Fuel Cells"* 
-
-### Lecture 5: Machine Learning and Deep Learning: an Embodied AI perspective
-* 2019-12-5 09:30 to 11:00 CET 
-* *Machine Learning and Deep Learning: an Embodied AI Perspective* 
-* Lecturer: Fabio Bonsignorio
-*  Guest lecture by Kyu-Jin Cho 
-* Seoul National University, Seoul, Korea
-  * *"The Future of Soft Robotics"*
-
+  
+### NO LECTURE ON 2019-12-5
 
 ### Lecture 6: Embodied Intelligence: Principles and open issues
-* 2019-12-12  09:30 to 11:00 CET
-* *Embodied Intelligence: principles and open issues* 
+* 2019-12-12  08:45 to 11:00 CET
+* *Machine Learning and Deep Learning: an Embodied AI Perspective*  
 * Lecturer: Fabio Bonsignorio  
+*  Guest lecture by Brian Kang 
+* Seoul National University, Seoul, Korea
+  * *"Machine learning Vision-Based Control of a wVarable robot."*
 *  Guest lecture by Dominik Boesl 
 *  HDBW-Hochschule der Bayerischen Wirtschaft and Festo AG, Munich, Germany
   
 
 ### Lecture  7: Grab Bag, Summary, Discussion
-* 2019-12-19 09:30 to 11:00 CET
+* 2019-12-19 08:45 to 11:00 CET
+* *Embodied Intelligence: principles and open issues*
 * *Grab Bag, Summary and topics to discuss* 
 * Lecturer: Fabio Bonsignorio
 * Guest lecture by Josh Bongard 
 * University of Vermont, Burlington (VT), USA
   * *"Evolutionary Robotics"*
+  
 
 
