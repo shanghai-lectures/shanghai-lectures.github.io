@@ -50,7 +50,7 @@ permalink: /programme/
   
 ### NO LECTURE ON 2019-12-5
 
-### Lecture 6: Embodied Intelligence: Principles and open issues
+### Lecture 5: Machine Learning and Deep Learning: an Embodied AI Perspective
 * 2019-12-12  08:45 to 11:00 CET
 * *Machine Learning and Deep Learning: an Embodied AI Perspective*  
 * Lecturer: Fabio Bonsignorio  
@@ -61,7 +61,7 @@ permalink: /programme/
 *  HDBW-Hochschule der Bayerischen Wirtschaft and Festo AG, Munich, Germany
   
 
-### Lecture  7: Grab Bag, Summary, Discussion
+### Lecture  6-7: Grab Bag, Summary, Discussion
 * 2019-12-19 08:45 to 11:00 CET
 * *Embodied Intelligence: principles and open issues*
 * *Grab Bag, Summary and topics to discuss* 
