@@ -56,7 +56,7 @@ permalink: /programme/
 * Lecturer: Fabio Bonsignorio  
 *  Guest lecture by Brian Kang 
 * Seoul National University, Seoul, Korea
-  * *"Machine learning Vision-Based Control of a wVarable robot."*
+  * *"Machine learning Vision-Based Control of a Wearable Robot."*
 *  Guest lecture by Dominik Boesl 
 *  HDBW-Hochschule der Bayerischen Wirtschaft and Festo AG, Munich, Germany
   
