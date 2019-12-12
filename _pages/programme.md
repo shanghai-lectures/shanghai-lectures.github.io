@@ -65,6 +65,7 @@ permalink: /programme/
   * *"Machine learning Vision-Based Control of a Wearable Robot."*
 *  Guest lecture by Dominik Boesl 
 *  HDBW-Hochschule der Bayerischen Wirtschaft and Festo AG, Munich, Germany
+  * *"Ethical Implications of Robotics, Automation and AI"*
   
 
 ### Lecture  6-7: Grab Bag, Summary, Discussion
@@ -72,9 +73,14 @@ permalink: /programme/
 * *Embodied Intelligence: principles and open issues*
 * *Grab Bag, Summary and topics to discuss* 
 * Lecturer: Fabio Bonsignorio
-* Guest lecture by Josh Bongard 
+*  Guest lecture by Krzysztof Pomorski
+* University College Dublin, Dublin, Ireland
+  * *"Quantum information processing and quantum AI in semiconductor quantum computer"*
+*  Guest lecture by Josh Bongard
 * University of Vermont, Burlington (VT), USA
   * *"Evolutionary Robotics"*
+
+
   
 
 
