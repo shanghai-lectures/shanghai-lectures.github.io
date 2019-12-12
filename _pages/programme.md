@@ -11,6 +11,7 @@ permalink: /programme/
 * 2019-10-17  09:30 to 11:00 CEST 
 * *The Future of Robotics* 
 * Lecturer: Fabio Bonsignorio
+* The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Lecture00_2019Oct24PDF_compressed.pdf).
 
 ### NO LECTURE ON 2019-10-24
 
@@ -18,6 +19,7 @@ permalink: /programme/
 * 2019-10-31 09:30 to 11:00 CET 
 * *What we mean when we talk about intelligence?* 
 * Lecturer: Fabio Bonsignorio
+* The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Lecture01_2019Oct31PDF.pdf).
 * Guest lecture by Amit Kumar Pandey: 
   * Hanson Robotics, Hong Kong, China
   * *"The Future of Social Robotics"*
@@ -26,6 +28,7 @@ permalink: /programme/
 * 2019-11-07 09:30 to 11:00 CET 
 * *The Role of Embodiment in Intelligent Systems (two sessions with 10 minutes break at 10:10 CET)* 
 * Lecturer: Fabio Bonsignorio
+* The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Lecture02_2019Nov7PDF.pdf).
   
 
 ### NO LECTURE ON 2019-11-14
@@ -34,6 +37,7 @@ permalink: /programme/
 * 2019-11-21 09:30 to 11:00 CET 
 * *Emerging Intelligence: Cognition from Interaction, Development and Evolution* 
 * Lecturer: Fabio Bonsignorio
+* The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Lecture03_2019Nov21PDF.pdf)
 * *"Remarks on the Chinese Room Experiment"* 
 * Live from the students of the Northwestern Polytechnical University, Xian, China
 * Guest lecture by Vera Zabotkina(moved from 11-7)): 
@@ -44,6 +48,7 @@ permalink: /programme/
 * 2019-11-28 09:30 to 11:00 CET
 * *Morphological Computation, Self-Organization of Behaviors and Adaptive Morphologies* 
 * Lecturer: Fabio Bonsignorio
+* The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Lecture04_2019Nov28PDF.pdf)
 * Guest lecture by Ioannis Ieropoulos: 
   * Bristol Robotics Lab, University of the West of England, Bristol, UK
   * *"Microbial Fuel Cells"* 
@@ -54,6 +59,7 @@ permalink: /programme/
 * 2019-12-12  08:45 to 11:00 CET
 * *Machine Learning and Deep Learning: an Embodied AI Perspective*  
 * Lecturer: Fabio Bonsignorio  
+* The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Lecture05_2019Dec12PDF_compressed.pdf)
 *  Guest lecture by Brian Kang 
 * Seoul National University, Seoul, Korea
   * *"Machine learning Vision-Based Control of a Wearable Robot."*
