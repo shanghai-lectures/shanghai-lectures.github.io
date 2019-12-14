@@ -39,8 +39,8 @@ permalink: /programme/
 * Lecturer: Fabio Bonsignorio
 * The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Lecture03_2019Nov21PDF.pdf)
 * *"Remarks on the Chinese Room Experiment"* 
-* The Student Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/ChineseRoom-20191121LXA.pdf)
 * Live from the students of the Northwestern Polytechnical University, Xian, China
+* The Student Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/ChineseRoom-20191121LXA.pdf)
 * Guest lecture by Vera Zabotkina(moved from 11-7)): 
   * Russian University for the Humanities, Moscow, Russia
   * *"Cognition, creativity, language"*
