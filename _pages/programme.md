@@ -44,6 +44,7 @@ permalink: /programme/
 * Guest lecture by Vera Zabotkina(moved from 11-7)): 
   * Russian University for the Humanities, Moscow, Russia
   * *"Cognition, creativity, language"*
+ * The Guest Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Cognition_creativity_language_ShanghAI_Lectures2019.pdf)
 
 ### Lecture 4: Morphological Computation, Self-Organization of Behaviors and Adaptive Morphologies
 * 2019-11-28 09:30 to 11:00 CET
