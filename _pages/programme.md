@@ -74,6 +74,7 @@ permalink: /programme/
 * 2019-12-19 08:45 to 11:00 CET
 * *Embodied Intelligence: principles and open issues*
 * *Grab Bag, Summary and topics to discuss* 
+* *Koans Announcement* 
 * Lecturer: Fabio Bonsignorio
 *  Guest lecture by Krzysztof Pomorski
 * University College Dublin, Dublin, Ireland
