@@ -76,6 +76,7 @@ permalink: /programme/
 * *Grab Bag, Summary and topics to discuss* 
 * *Koans Announcement* 
 * Lecturer: Fabio Bonsignorio
+* The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Lecture06-7_2019Dec19_compressed.pdf)
 *  Guest lecture by Krzysztof Pomorski
 * University College Dublin, Dublin, Ireland
   * *"Quantum information processing and quantum AI in semiconductor quantum computer"*
