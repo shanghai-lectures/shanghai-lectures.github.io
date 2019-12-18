@@ -81,6 +81,8 @@ permalink: /programme/
 *  Guest lecture by Josh Bongard
 * University of Vermont, Burlington (VT), USA
   * *"Evolutionary Robotics"*
+* The 2019 Koan Challenge PDF is [here](https://shanghai-lectures.github.io/slides/SHAIL2019_Koans.pdf)
+
 
 
   
