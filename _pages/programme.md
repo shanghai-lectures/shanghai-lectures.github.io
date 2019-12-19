@@ -80,9 +80,13 @@ permalink: /programme/
 *  Guest lecture by Krzysztof Pomorski
 * University College Dublin, Dublin, Ireland
   * *"Quantum information processing and quantum AI in semiconductor quantum computer"*
+* The Guest Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/ShanghaiAI-2019_Pomorski_presentedQ52.pdf)
 *  Guest lecture by Josh Bongard
 * University of Vermont, Burlington (VT), USA
   * *"Evolutionary Robotics"*
+* The Guest Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/2019_Shanghai_Bongard.pdf)
+
+### 2019 Koan Challenge
 * The 2019 Koan Challenge PDF is [here](https://shanghai-lectures.github.io/slides/SHAIL2019_Koans.pdf)
 
 
