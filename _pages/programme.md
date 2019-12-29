@@ -54,7 +54,8 @@ permalink: /programme/
 * Guest lecture by Ioannis Ieropoulos: 
   * Bristol Robotics Lab, University of the West of England, Bristol, UK
   * *"Microbial Fuel Cells"* 
-  
+* The Guest Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/SHANGHAIlectIeropoulos_28Nov19_compressed.pdf)
+
 ### NO LECTURE ON 2019-12-5
 
 ### Lecture 5: Machine Learning and Deep Learning: an Embodied AI Perspective
