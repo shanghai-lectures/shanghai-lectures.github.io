@@ -16,14 +16,6 @@ The ShanghAI Lectures project aims at
   * bringing global teaching to a new level
   
 
-**Help us to take the ShanghAI Lectures to the next stage!!!**
-  
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick" />
-<input type="hidden" name="hosted_button_id" value="D8UZEYQYHTQVN" />
-<input type="image" src="https://www.paypalobjects.com/en_US/IT/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_IT/i/scr/pixel.gif" width="1" height="1" />
-</form>
-  
+**Help us to take the ShanghAI Lectures to the next stage!!! Use the donate button at the bottom of the page, all the after tax proceeds will be used to develop the project. Recurring contribution are very welcome as they eas planning ahead!**
   
  
