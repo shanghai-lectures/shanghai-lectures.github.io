@@ -16,6 +16,6 @@ The ShanghAI Lectures project aims at
   * bringing global teaching to a new level
   
 
-**Help us to take the ShanghAI Lectures to the next stage!!! Use the donate button at the bottom of the page, all the after tax proceeds will be used to develop the project. Recurring contribution are very welcome as they eas planning ahead!**
+**Help us to take the ShanghAI Lectures to the next stage!!! Use the donate button at the bottom of the page, all the after tax proceeds will be used to develop the project. Accounts are audited.  Recurring contribution are very welcome!!!**
   
  
