@@ -46,20 +46,20 @@ permalink: /programme/
 
 
 ### Lecture 5: Machine Learning and Deep Learning: an Embodied AI Perspective
-* 2019-12-3  08:45 to 11:00 CET
+* 2020-12-3  08:45 to 11:00 CET
 * *Machine Learning and Deep Learning: an Embodied AI Perspective*  
 * Lecturer: Fabio Bonsignorio  
 *  Guest lecture TBA
 
 ### Lecture  6: Grab Bag, Summary, Discussion
-* 2019-12-10 08:45 to 11:00 CET
+* 2020-12-10 08:45 to 11:00 CET
 * *Embodied Intelligence: principles and open issues*
 * Lecturer: Fabio Bonsignorio
 *  Guest lecture TBA
   
 
 ### Lecture  7: Grab Bag, Summary, Discussion
-* 2019-12-17 08:45 to 11:00 CET*
+* 2020-12-17 08:45 to 11:00 CET*
 * *Grab Bag, Summary and topics to discuss* 
 * Lecturer: Fabio Bonsignorio
 *  Guest lecture by Josh Bongard
