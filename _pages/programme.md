@@ -34,7 +34,6 @@ permalink: /programme/
 * Koans Announcement * 
 * Guest lecture by Martin Stoelen: 
   * Western Norway University of Applied Sciences, Bergen, Norway
-  * * "Title TBA" *
 
 
 ### Lecture 4: Morphological Computation, Self-Organization of Behaviors and Adaptive Morphologies
