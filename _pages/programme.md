@@ -59,7 +59,7 @@ permalink: /programme/
   
 
 ### Lecture  7: Grab Bag, Summary, Discussion
-* 2020-12-17 09:30 to 11:00 CET*
+* 2020-12-17 09:30 to 11:00 CET
 * *Grab Bag, Summary and topics to discuss* 
 * Lecturer: Fabio Bonsignorio
 *  Guest lecture by Josh Bongard
