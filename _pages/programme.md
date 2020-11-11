@@ -31,7 +31,7 @@ permalink: /programme/
 * 2020-11-19 09:30 to 11:00 CET 
 * *Emerging Intelligence: Cognition from Interaction, Development and Evolution* 
 * Lecturer: Fabio Bonsignorio
-* Koans Announcement * 
+* Koans Announcement  
 * Guest lecture by Martin Stoelen: 
   * Western Norway University of Applied Sciences, Bergen, Norway
 
@@ -46,20 +46,20 @@ permalink: /programme/
 
 
 ### Lecture 5: Machine Learning and Deep Learning: an Embodied AI Perspective
-* 2020-12-3  08:45 to 11:00 CET
+* 2020-12-3  09:30 to 11:00 CET
 * *Machine Learning and Deep Learning: an Embodied AI Perspective*  
 * Lecturer: Fabio Bonsignorio  
 *  Guest lecture TBA
 
-### Lecture  6: Grab Bag, Summary, Discussion
-* 2020-12-10 08:45 to 11:00 CET
+### Lecture  6: Embodied Intelligence: principles and open issues
+* 2020-12-10 09:30 to 11:00 CET
 * *Embodied Intelligence: principles and open issues*
 * Lecturer: Fabio Bonsignorio
 *  Guest lecture TBA
   
 
 ### Lecture  7: Grab Bag, Summary, Discussion
-* 2020-12-17 08:45 to 11:00 CET*
+* 2020-12-17 09:30 to 11:00 CET*
 * *Grab Bag, Summary and topics to discuss* 
 * Lecturer: Fabio Bonsignorio
 *  Guest lecture by Josh Bongard
