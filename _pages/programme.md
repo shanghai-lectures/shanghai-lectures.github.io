@@ -51,8 +51,8 @@ permalink: /programme/
 * *Machine Learning and Deep Learning: an Embodied AI Perspective*  
 * Lecturer: Fabio Bonsignorio  
 *  Guest lecture by Tom Froese: 
-  *  Okinawa Institute of Science and Technology, Okinawa, Japan
-  * *"Overcoming the limits of AI by empowering the human mind"* 
+   * Okinawa Institute of Science and Technology, Okinawa, Japan
+   * *"Overcoming the limits of AI by empowering the human mind"* 
 
 ### Lecture  6: Embodied Intelligence: principles and open issues
 * 2020-12-10 09:30 to 11:00 CET
@@ -66,8 +66,8 @@ permalink: /programme/
 * *Grab Bag, Summary and topics to discuss* 
 * Lecturer: Fabio Bonsignorio
 *  Guest lecture by Josh Bongard
-* University of Vermont, Burlington (VT), USA
-  * *"Evolutionary Robotics and Xenobots"*
+   * University of Vermont, Burlington (VT), USA
+   * *"Evolutionary Robotics and Xenobots"*
 
 
 
