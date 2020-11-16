@@ -58,7 +58,9 @@ permalink: /programme/
 * 2020-12-10 09:30 to 11:00 CET
 * *Embodied Intelligence: principles and open issues*
 * Lecturer: Fabio Bonsignorio
-*  Guest lecture TBA
+*  Guest lecture by Darius Burschka
+   *  Technical University Munich, Munich, Germany
+   * TBA  
   
 
 ### Lecture  7: Grab Bag, Summary, Discussion
