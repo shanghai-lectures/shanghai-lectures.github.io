@@ -60,7 +60,7 @@ permalink: /programme/
 * Lecturer: Fabio Bonsignorio
 *  Guest lecture by Darius Burschka
    *  Technical University Munich, Munich, Germany
-   * TBA  
+   * *"Deep Learning – the path from big data indexing to robotics applications"*
   
 
 ### Lecture  7: Grab Bag, Summary, Discussion
