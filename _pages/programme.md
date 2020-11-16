@@ -34,7 +34,8 @@ permalink: /programme/
 * Koans Announcement  
 * Guest lecture by Martin Stoelen: 
   * Western Norway University of Applied Sciences, Bergen, Norway
-
+  * *"Soft touch and soft actuation in a selective harvesting robot"* 
+  
 
 ### Lecture 4: Morphological Computation, Self-Organization of Behaviors and Adaptive Morphologies
 * 2020-11-26 09:30 to 11:00 CET
@@ -49,7 +50,9 @@ permalink: /programme/
 * 2020-12-3  09:30 to 11:00 CET
 * *Machine Learning and Deep Learning: an Embodied AI Perspective*  
 * Lecturer: Fabio Bonsignorio  
-*  Guest lecture TBA
+*  Guest lecture by Tom Froese: 
+  *  Okinawa Institute of Science and Technology, Okinawa, Japan
+  * *"Overcoming the limits of AI by empowering the human mind"* 
 
 ### Lecture  6: Embodied Intelligence: principles and open issues
 * 2020-12-10 09:30 to 11:00 CET
