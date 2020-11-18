@@ -5,7 +5,7 @@ excerpt: "The lecture programme for the ShanghAI Lectures 2019"
 permalink: /programme/
 ---
 
-### The Lecture Programme of the 2019's 10th Anniversary Edition! Check back soon, it will be updated!!!
+### The Lecture Programme of the 2019's 10th Anniversary Edition! 
 
 ### Lecture 0: Overview
 * 2019-10-17  09:30 to 11:00 CEST 
