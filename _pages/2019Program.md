@@ -2,7 +2,7 @@
 title: "2019 Lecture Programme"
 layout: single
 excerpt: "The lecture programme for the ShanghAI Lectures 2019"
-permalink: /programme/
+permalink: /2019Program/
 ---
 
 ### The Lecture Programme of the 2019's 10th Anniversary Edition! 
