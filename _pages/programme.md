@@ -31,7 +31,7 @@ permalink: /programme/
 * 2020-11-19 09:30 to 11:00 CET 
 * *Emerging Intelligence: Cognition from Interaction, Development and Evolution* 
 * Lecturer: Fabio Bonsignorio
-* Koans Announcement  
+* Students' lecture: *"The Turing Machine"* from Northwestern Polytechnical University, Xian (China) 
 * Guest lecture by Martin Stoelen: 
   * Western Norway University of Applied Sciences, Bergen, Norway
   * *"Soft touch and soft actuation in a selective harvesting robot"* 
@@ -41,6 +41,7 @@ permalink: /programme/
 * 2020-11-26 09:30 to 11:00 CET
 * *Morphological Computation, Self-Organization of Behaviors and Adaptive Morphologies* 
 * Lecturer: Fabio Bonsignorio
+* Koans Announcement 
 * Guest lecture by Daniele Pucci: 
   *  Dynamic Interaction Control, Center for Robotics and Intelligent Systems, IIT, Genoa, Italy
   * *"Towards Aerial Humanoid Robotics: the iRonCub"* 
