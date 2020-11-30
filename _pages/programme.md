@@ -50,7 +50,9 @@ permalink: /programme/
 ### Lecture 5: Machine Learning and Deep Learning: an Embodied AI Perspective
 * 2020-12-3  09:30 to 11:00 CET
 * *Machine Learning and Deep Learning: an Embodied AI Perspective*  
-* Lecturer: Fabio Bonsignorio  
+* Lecturer: Fabio Bonsignorio 
+* Students' lecture 1: Álvaro Ramajo Ballester * "Intelligence and autonomy in robotics"* from Universidad Carlos III of Madrid, Madrid, Spain
+* Students' lecture 2: Francisco Blanco Esquivel * "How robots can help us do laundry"* from Universidad Carlos III of Madrid, Madrid, Spain
 *  Guest lecture by Tom Froese: 
    * Okinawa Institute of Science and Technology, Okinawa, Japan
    * *"Overcoming the limits of AI by empowering the human mind"* 
