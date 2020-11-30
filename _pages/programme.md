@@ -41,7 +41,7 @@ permalink: /programme/
 * 2020-11-26 09:30 to 11:00 CET
 * *Morphological Computation, Self-Organization of Behaviors and Adaptive Morphologies* 
 * Lecturer: Fabio Bonsignorio
-* Koans Announcement 
+* Koans Announcement. Check the 2020 Koans [here](https://shanghai-lectures.github.io/slides/SHAIL2020_KoansPDF.pdf)
 * Guest lecture by Daniele Pucci: 
   *  Dynamic Interaction Control, Center for Robotics and Intelligent Systems, IIT, Genoa, Italy
   * *"Towards Aerial Humanoid Robotics: the iRonCub"* 
