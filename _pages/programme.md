@@ -51,16 +51,17 @@ permalink: /programme/
 * 2020-12-3  09:30 to 11:00 CET
 * *Machine Learning and Deep Learning: an Embodied AI Perspective*  
 * Lecturer: Fabio Bonsignorio 
-* Students' lecture 1: Álvaro Ramajo Ballester * "Intelligence and autonomy in robotics"* from Universidad Carlos III of Madrid, Madrid, Spain
-* Students' lecture 2: Francisco Blanco Esquivel * "How robots can help us do laundry"* from Universidad Carlos III of Madrid, Madrid, Spain
+* Students' lecture: Álvaro Ramajo Ballester * "Intelligence and autonomy in robotics"* from Universidad Carlos III of Madrid, Madrid, Spain
 *  Guest lecture by Tom Froese: 
    * Okinawa Institute of Science and Technology, Okinawa, Japan
    * *"Overcoming the limits of AI by empowering the human mind"* 
 
 ### Lecture  6: Embodied Intelligence: principles and open issues
 * 2020-12-10 09:30 to 11:00 CET
-* *Embodied Intelligence: principles and open issues*
+* *Embodied Intelligence: principles and open issues. Koans Flash Presentation*
 * Lecturer: Fabio Bonsignorio
+* Students' lecture 1: Francisco Blanco Esquivel * "How robots can help us do laundry"* from Universidad Carlos III of Madrid, Madrid, Spain
+* Students' lecture 2: Łukasz Pluszyński * "Self-reconfiguring modulas robots"* from Politechnika Krakowska, Cracow, Poland
 *  Guest lecture by Darius Burschka
    *  Technical University Munich, Munich, Germany
    * *"Deep Learning – the path from big data indexing to robotics applications"*
