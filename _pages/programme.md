@@ -58,7 +58,7 @@ permalink: /programme/
 
 ### Lecture  6: Embodied Intelligence: principles and open issues
 * 2020-12-10 09:30 to 11:00 CET
-* *Embodied Intelligence: principles and open issues. Koans Flash Presentation. DL 17 December 2020 *
+* Embodied Intelligence: principles and open issues. Koans Flash Presentation. DL 17 December 2020 
 * Lecturer: Fabio Bonsignorio
 * Students' lecture 1: Francisco Blanco Esquivel * "How robots can help us do laundry"* from Universidad Carlos III of Madrid, Madrid, Spain
 * Students' lecture 2: Łukasz Pluszyński * "Self-reconfiguring modulas robots"* from Politechnika Krakowska, Cracow, Poland
