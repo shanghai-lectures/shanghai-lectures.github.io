@@ -70,7 +70,7 @@ permalink: /programme/
 ### Lecture  7: Grab Bag, Summary, Discussion
 * 2020-12-17 09:30 to 11:00 CET
 * *Grab Bag, Summary and topics to discuss* 
-* Flash Latest Results Lecture: Krzysztof Pomorski "From classical epidemic model to quantum mechanics and quantum AI" from Politechnika Krakowska, Cracow, Poland
+* Flash Latest Results Lecture: Krzysztof Pomorski "From classical epidemic model to quantum mechanics and quantum AI" from Cracow University of Technology, Cracow, Poland
 * Lecturer: Fabio Bonsignorio
 *  Guest lecture by Josh Bongard
    * University of Vermont, Burlington (VT), USA
