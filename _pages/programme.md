@@ -60,8 +60,8 @@ permalink: /programme/
 * 2020-12-10 09:30 to 11:00 CET
 * Embodied Intelligence: principles and open issues. Koans Flash Presentation. DL 17 December 2020 
 * Lecturer: Fabio Bonsignorio
-* Students' lecture 1: Francisco Blanco Esquivel * "How robots can help us do laundry"* from Universidad Carlos III of Madrid, Madrid, Spain
-* Students' lecture 2: Łukasz Pluszyński * "Self-reconfiguring modulas robots"* from Politechnika Krakowska, Cracow, Poland
+* Students' lecture 1: Francisco Blanco Esquivel  "How robots can help us do laundry" from Universidad Carlos III of Madrid, Madrid, Spain
+* Students' lecture 2: Łukasz Pluszyński  "Self-reconfiguring modulas robots" from Politechnika Krakowska, Cracow, Poland
 *  Guest lecture by Darius Burschka
    *  Technical University Munich, Munich, Germany
    * *"Deep Learning – the path from big data indexing to robotics applications"*
@@ -70,7 +70,7 @@ permalink: /programme/
 ### Lecture  7: Grab Bag, Summary, Discussion
 * 2020-12-17 09:30 to 11:00 CET
 * *Grab Bag, Summary and topics to discuss* 
-* Flash Latest Results Lecture: Krzysztof Pomorski * "From classical epidemic model to quantum mechanics and quantum AI"* from Politechnika Krakowska, Cracow, Poland
+* Flash Latest Results Lecture: Krzysztof Pomorski "From classical epidemic model to quantum mechanics and quantum AI" from Politechnika Krakowska, Cracow, Poland
 * Lecturer: Fabio Bonsignorio
 *  Guest lecture by Josh Bongard
    * University of Vermont, Burlington (VT), USA
