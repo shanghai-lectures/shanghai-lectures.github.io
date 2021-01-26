@@ -54,7 +54,7 @@ permalink: /programme/
 * *Machine Learning and Deep Learning: an Embodied AI Perspective*  
 * Lecturer: Fabio Bonsignorio 
 * Students' lecture: Álvaro Ramajo Ballester * "Intelligence and autonomy in robotics"* from Universidad Carlos III of Madrid, Madrid, Spain
-* The Students' Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/2020StudentsIntelligence_and _Autonomy_in_Robotics.pdf)
+* The Students' Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/2020StudentsIntelligence_and_Autonomy_in_Robotics.pdf)
 *  Guest lecture by Tom Froese: 
    * Okinawa Institute of Science and Technology, Okinawa, Japan
    * *"Overcoming the limits of AI by empowering the human mind"* 
