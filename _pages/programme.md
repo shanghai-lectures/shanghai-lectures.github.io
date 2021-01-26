@@ -45,7 +45,7 @@ permalink: /programme/
 * Guest lecture by Daniele Pucci: 
   *  Dynamic Interaction Control, Center for Robotics and Intelligent Systems, IIT, Genoa, Italy
   * *"Towards Aerial Humanoid Robotics: the iRonCub"* 
-
+  * The Guest Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/2020Pucci_aerial-humanoid-robotics.pdf)
 
 ### Lecture 5: Machine Learning and Deep Learning: an Embodied AI Perspective
 * 2020-12-3  09:30 to 11:00 CET
