@@ -65,6 +65,7 @@ permalink: /programme/
 * Lecturer: Fabio Bonsignorio
 * Students' lecture 1: Francisco Blanco Esquivel  "How robots can help us do laundry" from Universidad Carlos III of Madrid, Madrid, Spain
 * Students' lecture 2: Łukasz Pluszyński  "Self-reconfiguring modulas robots" from Politechnika Krakowska, Cracow, Poland
+* The Students' Lecture 2's PDF is [here](https://shanghai-lectures.github.io/slides/2020StudentsSelf-reconfiguring_modular_robots.pdf)
 *  Guest lecture by Darius Burschka
    *  Technical University Munich, Munich, Germany
    * *"Deep Learning – the path from big data indexing to robotics applications"*
