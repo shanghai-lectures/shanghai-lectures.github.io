@@ -33,6 +33,7 @@ permalink: /programme/
 * *Emerging Intelligence: Cognition from Interaction, Development and Evolution* 
 * Lecturer: Fabio Bonsignorio
 * Students' lecture: *"The Turing Machine"* from Northwestern Polytechnical University, Xian (China) 
+* The Students' Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/2020StudentsTuring_machine-Guotengyang-lxa.pdf)
 * Guest lecture by Martin Stoelen: 
   * Western Norway University of Applied Sciences, Bergen, Norway
   * *"Soft touch and soft actuation in a selective harvesting robot"* 
