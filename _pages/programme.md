@@ -26,6 +26,7 @@ permalink: /programme/
 * Guest lecture by Salua Hamaza and Andre Farinha: 
   * Imperial College, London, UK
   * *"Sensor Delivery in Forests with Aerial Robots: A New Paradigm to Environmental Monitoring"*
+  * The Guest Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/2020Sensor_Delivery_in_Forests-ShangAI_Lecture.pdf)
 
 ### Lecture 3: Evolution: Cognition from Scratch
 * 2020-11-19 09:30 to 11:00 CET 
