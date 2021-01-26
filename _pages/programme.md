@@ -55,7 +55,7 @@ permalink: /programme/
 *  Guest lecture by Tom Froese: 
    * Okinawa Institute of Science and Technology, Okinawa, Japan
    * *"Overcoming the limits of AI by empowering the human mind"* 
-   * The Guest Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/2020Froese-Overcoming_the limits_of_AI.pdf)
+   * The Guest Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/2020Froese-Overcoming_the_limits_of_AI.pdf)
 
 ### Lecture  6: Embodied Intelligence: principles and open issues
 * 2020-12-10 09:30 to 11:00 CET
