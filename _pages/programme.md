@@ -70,6 +70,7 @@ permalink: /programme/
 *  Guest lecture by Darius Burschka
    *  Technical University Munich, Munich, Germany
    * *"Deep Learning – the path from big data indexing to robotics applications"*
+   * The Guest Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/2020BurschkaShanghAi_DeepLearn.pdf)
   
 
 ### Lecture  7: Grab Bag, Summary, Discussion
