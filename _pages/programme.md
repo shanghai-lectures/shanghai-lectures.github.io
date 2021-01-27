@@ -76,6 +76,7 @@ permalink: /programme/
 * 2020-12-17 09:30 to 11:00 CET
 * *Grab Bag, Summary and topics to discuss* 
 * Flash Latest Results Lecture: Krzysztof Pomorski "From classical epidemic model to quantum mechanics and quantum AI" from Cracow University of Technology, Cracow, Poland
+* The Flash Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/2020FlashPresentation11Q5Q411.pdf)
 * Lecturer: Fabio Bonsignorio
 *  Guest lecture by Josh Bongard
    * University of Vermont, Burlington (VT), USA
