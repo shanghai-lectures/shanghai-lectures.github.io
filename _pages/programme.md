@@ -15,7 +15,7 @@ permalink: /programme/
 
 ### Lecture 1: Intelligence: things can be seen differently
 * 2021-11-4  09:00 to 11:00 CET 
-* *Robotics in practice. The Need for an Embodied AI and Reproducible Research Approach. Koans Flash Presentation * 
+* Robotics in practice. The Need for an Embodied AI and Reproducible Research Approach. Koans Flash Presentation 
 * Lecturer: Fabio Bonsignorio
 * Guest lecture by Ezio Andreta: 
   * Foresight Project Coordinator, CNR Italy, Retired Director EU Commission, Brussels, Belgium
