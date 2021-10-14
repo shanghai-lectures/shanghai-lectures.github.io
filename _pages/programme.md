@@ -55,7 +55,7 @@ permalink: /programme/
 * 2020-12-2  09:00 to 11:00 CET
 * *Machine Learning and Deep Learning: a Embodied AI Perspective*  
 * Lecturer: Fabio Bonsignorio 
-*  Guest lecture by Marija Krusmaa: 
+*  Guest lecture by Marija Krusmaa (it might be moved to November 25): 
    * TalTech – Tallinn University of Technology, Tallin, Estonia
    * *"Soft bioinspired underwater robotics. Small low-cost underwater robots."* 
 
@@ -70,7 +70,7 @@ permalink: /programme/
 
 ### Lecture  7: Grab Bag, Summary, Discussion
 * 2020-12-16 09:00 to 11:00 CET
-* *Grab Bag, Summary and topics to discuss: Video is killing the radio stars * 
+* Grab Bag, Summary and topics to discuss: Video is killing the radio stars 
 * Lecturer: Fabio Bonsignorio
 *  Guest lecture by Josh Bongard
    * University of Vermont, Burlington (VT), USA
