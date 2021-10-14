@@ -35,7 +35,7 @@ permalink: /programme/
 * *Emerging Intelligence: Cognition from Interaction, Development and Evolution* 
 * Lecturer: Fabio Bonsignorio
 * Guest lecture by Chiara Marletto : 
-  *Wolfson College, University of Oxford, UK
+  * Wolfson College, University of Oxford, UK
   * *"The Science of Can and Can’t"* 
   
 
