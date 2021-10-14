@@ -34,7 +34,6 @@ permalink: /programme/
 * 2021-11-18 09:00 to 11:00 CET 
 * *Emerging Intelligence: Cognition from Interaction, Development and Evolution* 
 * Lecturer: Fabio Bonsignorio
-
 * Guest lecture by Chiara Marletto : 
   *Wolfson College, University of Oxford, UK
   * *"The Science of Can and Can’t"* 
