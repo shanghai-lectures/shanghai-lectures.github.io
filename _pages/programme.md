@@ -5,7 +5,7 @@ excerpt: "The lecture programme for the ShanghAI Lectures 2020"
 permalink: /programme/
 ---
 
-### The Lecture Programme of the 2020's Edition! Check back soon, it will be updated!!!
+### The Lecture Programme of the 2020's Edition! Check back soon for 2021 Program!!!
 
 ### Lecture 0: Overview
 * 2020-10-29  09:30 to 11:00 CET 
