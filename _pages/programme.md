@@ -16,7 +16,6 @@ permalink: /programme/
 ### Lecture 1: Intelligence: things can be seen differently
 * 2021-11-4  09:00 to 11:00 CET 
 * *The Need for an Embodied AI and Reproducible Research Approach. Koans Flash Presentation * 
--->> dopo * Check the 2021 Koans [here](https://shanghai-lectures.github.io/slides/SHAIL2020_KoansPDF.pdf)
 * Lecturer: Fabio Bonsignorio
 * Guest lecture by Ezio Andreta: 
   * Foresight Project Coordinator, CNR Italy, Retired Director EU Commission
