@@ -18,7 +18,7 @@ permalink: /programme/
 * *Robotics in practice. The Need for an Embodied AI and Reproducible Research Approach. Koans Flash Presentation * 
 * Lecturer: Fabio Bonsignorio
 * Guest lecture by Ezio Andreta: 
-  * Foresight Project Coordinator, CNR Italy, Retired Director EU Commission
+  * Foresight Project Coordinator, CNR Italy, Retired Director EU Commission, Brussels, Belgium
   * *"From complexity to AI"*
 
 
@@ -46,9 +46,6 @@ permalink: /programme/
 * Guest lecture by Pierluigi Moretti: 
   *  Foresight WG Materials Leader, CNR, Rome, Italy
   * *"Stem materials, the frame problem and semantics"* 
-*  Guest lecture by Marija Krusmaa (it might be moved to December 2): 
-   * TalTech – Tallinn University of Technology, Tallin, Estonia
-   * *"Soft bioinspired underwater robotics. Small low-cost underwater robots."*
 
 ### Lecture 5: Machine Learning and Deep Learning: an Embodied AI Perspective
 * 2020-12-2  09:00 to 11:00 CET
@@ -63,7 +60,7 @@ permalink: /programme/
 * Embodied Intelligence: principles and open issues. 
 * Lecturer: Fabio Bonsignorio
 *  Guest lecture by Toshio Fukuda
-   *  Meijo University, Past President IEEE, Founding Chair IROS 
+   *  Meijo University, Past President IEEE, Founding Chair IROS, Nagoya, Japan 
    * *" Multiscale Robotics  and the Future of Intelligent Robotics "*
   
 
