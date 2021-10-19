@@ -46,7 +46,7 @@ permalink: /programme/
 * Guest lecture by Pierluigi Moretti: 
   *  Foresight WG Materials Leader, CNR, Rome, Italy
   * *"Stem materials, the frame problem and semantics"* 
-*  Guest lecture by Marija Krusmaa (it might be moved to November 25): 
+*  Guest lecture by Marija Krusmaa (it might be moved to December 2): 
    * TalTech – Tallinn University of Technology, Tallin, Estonia
    * *"Challenges in underwater robotics: why it’s difficult to go close and shallow?"* 
 
