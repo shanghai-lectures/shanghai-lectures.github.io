@@ -48,7 +48,7 @@ permalink: /programme/
   * *"Stem materials, the frame problem and semantics"* 
 
 ### Lecture 5: Machine Learning and Deep Learning: an Embodied AI Perspective
-* 2020-12-2  09:00 to 11:00 CET
+* 2021-12-2  09:00 to 11:00 CET
 * *Machine Learning and Deep Learning: a Embodied AI Perspective*  
 * Lecturer: Fabio Bonsignorio 
 *  Guest lecture by Marija Krusmaa (it might be moved to November 25): 
@@ -56,7 +56,7 @@ permalink: /programme/
    * *"Soft bioinspired underwater robotics. Small low-cost underwater robots."* 
 
 ### Lecture  6: Embodied Intelligence: principles and open issues
-* 2020-12-9 09:00 to 11:00 CET
+* 2021-12-9 09:00 to 11:00 CET
 * Embodied Intelligence: principles and open issues. 
 * Lecturer: Fabio Bonsignorio
 *  Guest lecture by Toshio Fukuda
@@ -65,7 +65,7 @@ permalink: /programme/
   
 
 ### Lecture  7: Grab Bag, Summary, Discussion
-* 2020-12-16 09:00 to 11:00 CET
+* 2021-12-16 09:00 to 11:00 CET
 * Grab Bag, Summary and topics to discuss: Video is killing the radio stars 
 * Lecturer: Fabio Bonsignorio
 *  Guest lecture by Josh Bongard
