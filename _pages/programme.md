@@ -46,14 +46,15 @@ permalink: /programme/
 * Guest lecture by Pierluigi Moretti: 
   *  Foresight WG Materials Leader, CNR, Rome, Italy
   * *"Stem materials, the frame problem and semantics"* 
+*  Guest lecture by Marija Krusmaa (it might be moved to November 25): 
+   * TalTech – Tallinn University of Technology, Tallin, Estonia
+   * *"Challenges in underwater robotics: why it’s difficult to go close and shallow?"* 
 
 ### Lecture 5: Machine Learning and Deep Learning: an Embodied AI Perspective
 * 2021-12-2  09:00 to 11:00 CET
 * *Machine Learning and Deep Learning: a Embodied AI Perspective*  
 * Lecturer: Fabio Bonsignorio 
-*  Guest lecture by Marija Krusmaa (it might be moved to November 25): 
-   * TalTech – Tallinn University of Technology, Tallin, Estonia
-   * *"Soft bioinspired underwater robotics. Small low-cost underwater robots."* 
+
 
 ### Lecture  6: Embodied Intelligence: principles and open issues
 * 2021-12-9 09:00 to 11:00 CET
