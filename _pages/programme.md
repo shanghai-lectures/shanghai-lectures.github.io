@@ -19,7 +19,9 @@ permalink: /programme/
 * The Need for an Embodied AI and Reproducible Research Approach
 * Koans 2021 Presentation 
 * Lecturer: Fabio Bonsignorio
-
+* Guest Lecture by Krzysztof Pomorski 
+  * Cracow University of Technology, Cracow, Poland
+  * *"A Quantum Computation Very Short Introduction for Embodied AI people"*
 
 
 ### Lecture 2: Embodiment
