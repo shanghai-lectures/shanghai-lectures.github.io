@@ -21,7 +21,7 @@ permalink: /programme/
 * Lecturer: Fabio Bonsignorio
 * Guest Lecture by Krzysztof Pomorski 
   * Cracow University of Technology, Cracow, Poland
-  * *"A Quantum Computation Very Short Introduction for Embodied AI people"*
+  * *"A Quantum Computation Very Short Introduction for Embodied AI People"*
 
 
 ### Lecture 2: Embodiment
@@ -48,7 +48,7 @@ permalink: /programme/
 * Guest lecture by Pierluigi Moretti: 
   *  Foresight WG Materials Leader, CNR, Rome, Italy
   * *"Stem materials, the frame problem and semantics"* 
-*  Guest lecture by Marija Krusmaa (it might be moved to December 2): 
+*  Guest lecture by Marija Krusmaa: 
    * TalTech – Tallinn University of Technology, Tallin, Estonia
    * *"Challenges in underwater robotics: why it’s difficult to go close and shallow?"* 
 
