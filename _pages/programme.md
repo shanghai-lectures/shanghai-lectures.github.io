@@ -28,15 +28,15 @@ permalink: /programme/
 * 2021-11-11 09:00 to 11:00 CET 
 * *The Role of Embodiment in Intelligent Systems* 
 * Lecturer: Fabio Bonsignorio
-* 9:15 CET Guest lecture by Rachel Armstrong: 
-  * University of Newcastle, Newcastle, UK
+* 9:15 Guest lecture by Rachel Armstrong: 
+  * KU Leuven, Leuven, Belgium
   * *"A distillation of Life: On Electron Flow, energy, transformational matter & intelligence"*
   
 ### Lecture 3: Evolution: Cognition from Scratch
 * 2021-11-18 09:00 to 11:00 CET 
 * *Emerging Intelligence: Cognition from Interaction, Development and Evolution* 
 * Lecturer: Fabio Bonsignorio
-* 10:15 Guest lecture by Chiara Marletto : 
+* 10:15 Guest lecture by Chiara Marletto: 
   * Wolfson College, University of Oxford, UK
   * *"The Science of Can and Can’t"* 
   
@@ -45,10 +45,10 @@ permalink: /programme/
 * 2021-11-25 09:00 to 11:00 CET
 * *Morphological Computation, Self-Organization of Behaviors and Adaptive Morphologies* 
 * Lecturer: Fabio Bonsignorio
-* 9:15 Guest lecture by Pierluigi Moretti: 
+* 9:15 Guest lecture by Pierfrancesco Moretti: 
   *  Foresight WG Materials Leader, CNR, Rome, Italy
   * *"Stem materials, the frame problem and semantics"* 
-* 10:15 Guest lecture by Marija Krusmaa: 
+* 10:15 Guest lecture by Maarija Kruusmaa: 
    * TalTech – Tallinn University of Technology, Tallin, Estonia
    * *"Challenges in underwater robotics: why it’s difficult to go close and shallow?"* 
 
