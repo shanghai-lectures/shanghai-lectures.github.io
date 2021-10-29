@@ -29,7 +29,7 @@ permalink: /programme/
 * *The Role of Embodiment in Intelligent Systems* 
 * Lecturer: Fabio Bonsignorio
 * 9:15 Guest lecture by Rachel Armstrong: 
-  * KU Leuven, Leuven, Belgium
+  * Department of Architecture, Campus Sint-Lucas, KU Leuven, Ghent/Brussels, Belgium
   * *"A distillation of Life: On Electron Flow, energy, transformational matter & intelligence"*
   
 ### Lecture 3: Evolution: Cognition from Scratch
@@ -48,8 +48,8 @@ permalink: /programme/
 * 9:15 Guest lecture by Pierfrancesco Moretti: 
   *  Foresight WG Materials Leader, CNR, Rome, Italy
   * *"Stem materials, the frame problem and semantics"* 
-* 10:15 Guest lecture by Maarija Kruusmaa: 
-   * TalTech – Tallinn University of Technology, Tallin, Estonia
+* 10:15 Guest lecture by Maarja Kruusmaa: 
+   * TalTech – Tallinn University of Technology, Tallinn, Estonia
    * *"Challenges in underwater robotics: why it’s difficult to go close and shallow?"* 
 
 ### Lecture 5: Machine Learning and Deep Learning: an Embodied AI Perspective
