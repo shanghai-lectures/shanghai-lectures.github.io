@@ -20,8 +20,8 @@ permalink: /programme/
 * Koans 2021 Presentation 
 * Lecturer: Fabio Bonsignorio
 * 10:15 Guest Lecture by Krzysztof Pomorski 
-  * Cracow University of Technology, Cracow, Poland
-  * *"A Quantum Computation Very Short Introduction for Embodied AI People"*
+  * Cracow University of Technology, Cracow, Quantum Hardware Systems, Lodz, Poland 
+  * *"From Classical Sensing and Computation to Q-Computation and Q-AI"*
 
 
 ### Lecture 2: Embodiment
