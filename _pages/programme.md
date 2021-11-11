@@ -28,6 +28,7 @@ permalink: /programme/
 * 2021-11-11 09:00 to 11:00 CET 
 * *The Role of Embodiment in Intelligent Systems* 
 * Lecturer: Fabio Bonsignorio
+* Koans Announcement. Check the 2021 Koans [here](https://shanghai-lectures.github.io/slides/SHAIL2021_KoansPDF.pdf). Prez next week!
 * 9:15 Guest lecture by Rachel Armstrong: 
   * Department of Architecture, Campus Sint-Lucas, KU Leuven, Ghent/Brussels, Belgium
   * *"A distillation of Life: On Electron Flow, energy, transformational matter & intelligence"*
