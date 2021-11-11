@@ -35,7 +35,7 @@ permalink: /programme/
   
 ### Lecture 3: Evolution: Cognition from Scratch
 * 2021-11-18 09:00 to 11:00 CET 
-* *Emerging Intelligence: Cognition from Interaction, Development and Evolution* 
+* *Emerging Intelligence: Embodiment, Cognition from Interaction, Development and Evolution* 
 * Lecturer: Fabio Bonsignorio
 * 10:15 Guest lecture by Chiara Marletto: 
   * Wolfson College, University of Oxford, UK
