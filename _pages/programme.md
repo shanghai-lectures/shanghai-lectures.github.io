@@ -63,10 +63,14 @@ permalink: /programme/
 
 
 ### Lecture  6: Embodied Intelligence: principles and open issues
-* 2021-12-9 09:00 to 11:00 CET
+* 2021-12-9 09:30 to 12:00 CET 
+* Robotics in practice in 2021. 
 * Embodied Intelligence: principles and open issues. 
 * Lecturer: Fabio Bonsignorio
-* 10:15 Guest lecture by Toshio Fukuda
+* 10:45 Guest student lecture by Lukasz Pluszynski
+   *  Cracow University of Technology, Cracow, Poland 
+   * *" Stigmergy "*
+* 11:15 Guest lecture by Toshio Fukuda
    *  Meijo University, Past President IEEE, Founding Chair IROS, Nagoya, Japan 
    * *" Multiscale Robotics  and the Future of Intelligent Robotics "*
   
