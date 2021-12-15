@@ -79,6 +79,9 @@ permalink: /programme/
 * 2021-12-16 09:00 to 11:00 CET
 * Grab Bag, Summary and topics to discuss: Video is killing the radio stars 
 * Lecturer: Fabio Bonsignorio
+* 09:50 Guest student lecture by Dariusz Kotula
+   *  Cracow University of Technology, Cracow, Poland 
+   * *"Stochastic Conway Game of Life "*
 * 10:15 Guest lecture by Josh Bongard
    * University of Vermont, Burlington (VT), USA
    * *"Evolutionary Robotics, Xenobots and beyond"*
