@@ -32,5 +32,5 @@ main:
   # - title: "Student Registration"
   #  url: https://www.eventbrite.co.uk/e/shanghai-lectures-2017-student-registration-registration-38812771043?ref=ebtn
 
-  #- title: "Archives"
-  #  url: https://shanghai-lectures.github.io/archives/index.html
+  - title: "Archives"
+    url: https://shanghai-lectures.github.io/archives/index.html
