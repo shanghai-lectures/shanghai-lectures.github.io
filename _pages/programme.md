@@ -47,7 +47,7 @@ permalink: /programme/
 * 10:10 Guest lecture by Yukie Nagai: 
   *  International Research Center for Neurointelligence, The University of Tokyo, Tokyo, Japan
   * *"Cognitive Developmental Robotics"*
-* 10:45 Guestlecture by Ezio Andreta: 
+* 10:45 Guest lecture by Ezio Andreta: 
   * Foresight Project Coordinator, CNR Italy, Retired Director EU Commission, Brussels, Belgium
   * *"From complexity to AI: Managing the ecological transition"*
 
