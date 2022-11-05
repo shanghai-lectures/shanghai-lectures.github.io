@@ -29,7 +29,7 @@ permalink: /programme/
 * Koans Announcement 
 * 10:10 Guest lecture by Enrica Zereik: 
   * CNR - INM, Heron@Cnr Joint Lab, Genoa, Italy 
-  * *"Controlling 'uncontrollable' stuff: H2Arm"*
+  * *"Controlling 'uncontrollable' stuff: Playing with the H2Arm"*
   
 ### Lecture 3: Evolution: Cognition from Scratch
 * 2022-11-17 09:00 to 11:00 CET 
