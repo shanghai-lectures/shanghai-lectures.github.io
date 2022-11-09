@@ -11,12 +11,14 @@ permalink: /programme/
 * 2022-10-27  09:00 to 11:00 CEST 
 * *AI and Robotics as tools to face our times' global dramatic challenges* 
 * Lecturer: Fabio Bonsignorio
+* The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/ShanghAILecture0_2022FBPDF.pdf).
 
 
 ### Lecture 1: Intelligence: think different!
 * 2022-11-3  09:00 to 11:00 CET 
 * *Questioning received opinions on natural and artificial intelligence*
 * Lecturer: Fabio Bonsignorio
+* The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/ShanghAILecture1_2022FBPDF.pdf).
 * 10:10 Guest Lecture by Angelo Cangelosi 
   * University of Manchester, Manchester, UK 
   * *"Cognition Robotics"*
@@ -26,6 +28,7 @@ permalink: /programme/
 * 2022-11-10 09:00 to 11:00 CET 
 * *The Role of Embodiment in Intelligent Systems vs. Practical Robotics in 2022* 
 * Lecturer: Fabio Bonsignorio
+* The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/ShanghAILecture2_2022FBPDF.pdf)
 * Koans Announcement 
 * 10:10 Guest lecture by Enrica Zereik: 
   * CNR - INM, Heron@Cnr Joint Lab, Genoa, Italy 
