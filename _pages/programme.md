@@ -34,6 +34,7 @@ permalink: /programme/
 * 10:10 Guest lecture by Enrica Zereik: 
   * CNR - INM, Heron@Cnr Joint Lab, Genoa, Italy 
   * *"Controlling 'uncontrollable' stuff: Playing with the H2Arm"*
+  * The Guest Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Zereik_ShanghAIlectureNov2022.pdf).
   
 ### Lecture 3: Evolution: Cognition from Scratch
 * 2022-11-17 09:00 to 11:00 CET 
