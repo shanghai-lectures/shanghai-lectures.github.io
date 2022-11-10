@@ -22,6 +22,7 @@ permalink: /programme/
 * 10:10 Guest Lecture by Angelo Cangelosi 
   * University of Manchester, Manchester, UK 
   * *"Cognition Robotics"*
+  * The Guest Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Cangelosi-ShanghAI-2022_compressed.pdf).
 
 
 ### Lecture 2: Embodiment
