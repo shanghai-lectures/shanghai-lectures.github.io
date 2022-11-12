@@ -71,8 +71,9 @@ permalink: /programme/
 * Robotics in practice in 2021. 
 * Embodied Intelligence: principles and open issues. 
 * Lecturer: Fabio Bonsignorio
-* 10:10 Guest lecture: TBA
-  
+* 10:10 Guest lecture by Sven Behnke
+*  Computer Science Department VI Intelligent Systems and Robotics, Autonomous Intelligent Systems Group, University of Bonn, Bonn, Germany
+* *"Perception, Planning, and Learning for Cognitive Robots"*  
 
 ### Lecture  7: Grab Bag, Summary, Discussion
 * 2022-12-15 09:00 to 11:00 CET
