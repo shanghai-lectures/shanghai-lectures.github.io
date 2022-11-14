@@ -40,9 +40,10 @@ permalink: /programme/
 * 2022-11-17 09:00 to 11:00 CET 
 * *Emerging Intelligence: Embodiment, Cognition from Interaction, Development and Evolution* 
 * Lecturer: Fabio Bonsignorio
-* 10:10 Guest lecture by Martin Stoelen: 
+* 10:00 Guest lecture by Martin Stoelen: 
   * Western Norway University of Applied Sciences, Bergen, Norway
   * *"Soft robots for the hard problem of picking soft berries”"* 
+* 10:45 Koans Announcement
   
 
 ### Lecture 4: Morphological Computation, Self-Organization of Behaviors and Adaptive Morphologies
