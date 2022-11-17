@@ -69,7 +69,6 @@ permalink: /programme/
 
 ### Lecture  6: Embodied Intelligence: principles and open issues
 * 2022-12-8 09:00 to 11:00 CET 
-* Robotics in practice in 2021. 
 * Embodied Intelligence: principles and open issues. 
 * Lecturer: Fabio Bonsignorio
 * 10:10 Guest lecture by Sven Behnke
