@@ -40,10 +40,13 @@ permalink: /programme/
 * 2022-11-17 09:00 to 11:00 CET 
 * *Emerging Intelligence: Embodiment, Cognition from Interaction, Development and Evolution* 
 * Lecturer: Fabio Bonsignorio
+* The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/ShanghAILecture3_2022PDF.pdf).
 * 10:00 Guest lecture by Martin Stoelen: 
   * Western Norway University of Applied Sciences, Bergen, Norway
   * *"Soft robots for the hard problem of picking soft berries”"* 
-* 10:45 Koans Announcement
+* 10:45 Cracow University of Technology presentation
+* 10:50 Koans Announcement
+* * The Koans and related instructions are [here](https://shanghai-lectures.github.io/slides/SHAIL2022_KoansPDF.pdf).
   
 
 ### Lecture 4: Morphological Computation, Self-Organization of Behaviors and Adaptive Morphologies
