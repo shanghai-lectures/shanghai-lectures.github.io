@@ -46,7 +46,7 @@ permalink: /programme/
   * *"Soft robots for the hard problem of picking soft berries”"* 
 * 10:45 Cracow University of Technology presentation
 * 10:50 Koans Announcement
-* * The Koans and related instructions are [here](https://shanghai-lectures.github.io/slides/SHAIL2022_KoansPDF.pdf).
+* The Koans and related instructions are [here](https://shanghai-lectures.github.io/slides/SHAIL2022_KoansPDF.pdf).
   
 
 ### Lecture 4: Morphological Computation, Self-Organization of Behaviors and Adaptive Morphologies
