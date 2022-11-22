@@ -53,7 +53,7 @@ permalink: /programme/
 * 2022-11-24 09:00 to 11:15 CET
 * *Morphological Computation, Self-Organization of Behaviors and Adaptive Morphologies* 
 * Lecturer: Fabio Bonsignorio
-* 10:10 Guest lecture by Yukie Nagai: 
+* 10:00 Guest lecture by Yukie Nagai: 
   *  International Research Center for Neurointelligence, The University of Tokyo, Tokyo, Japan
   * *"Cognitive Developmental Robotics"*
 * 10:45 Guest lecture by Ezio Andreta: 
