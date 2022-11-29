@@ -45,6 +45,7 @@ permalink: /programme/
   * Western Norway University of Applied Sciences, Bergen, Norway
   * *"Soft robots for the hard problem of picking soft berries”"* 
 * 10:45 Cracow University of Technology presentation
+* The CUT presentation's PDF is [here](https://shanghai-lectures.github.io/slides/ShanghAILecture3_2022PDF.pdf).
 * 10:50 Koans Announcement
 * The Koans and related instructions are [here](https://shanghai-lectures.github.io/slides/SHAIL2022_KoansPDF.pdf).
   
@@ -53,9 +54,11 @@ permalink: /programme/
 * 2022-11-24 09:00 to 11:15 CET
 * *Morphological Computation, Self-Organization of Behaviors and Adaptive Morphologies* 
 * Lecturer: Fabio Bonsignorio
+* The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/ShanghAILecture4_2022PDF.pdf).
 * 10:00 Guest lecture by Yukie Nagai: 
   *  International Research Center for Neurointelligence, The University of Tokyo, Tokyo, Japan
   * *"Cognitive Developmental Robotics"*
+* The Guest Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/ShanghAILectures_20221124.pdf).
 * 10:45 Guest lecture by Ezio Andreta: 
   * Foresight Project Coordinator, CNR Italy, Retired Director EU Commission, Brussels, Belgium
   * *"From complexity to AI: Managing the ecological transition"*
