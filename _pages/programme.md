@@ -62,6 +62,7 @@ permalink: /programme/
 * 10:45 Guest lecture by Ezio Andreta: 
   * Foresight Project Coordinator, CNR Italy, Retired Director EU Commission, Brussels, Belgium
   * *"From complexity to AI: Managing the ecological transition"*
+* The Guest Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/EzioSHAIL24N22PDF.pdf).
 
 ### Lecture 5: Machine Learning and Deep Learning: an Embodied AI Perspective
 * 2022-12-1  09:00 to 11:00 CET
