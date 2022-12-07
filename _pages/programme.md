@@ -81,6 +81,9 @@ permalink: /programme/
 * 10:10 Guest lecture by Sven Behnke
 *  Computer Science Department VI Intelligent Systems and Robotics, Autonomous Intelligent Systems Group, University of Bonn, Bonn, Germany
 * *"Perception, Planning, and Learning for Cognitive Robots"*  
+* 11:00 Guest student lecture by Dariusz Kotula
+   *  Cracow University of Technology, Cracow, Poland 
+   * *"Thermodinamics of Stochastic Conway Game of Life "*
 
 ### Lecture  7: Grab Bag, Summary, Discussion
 * 2022-12-15 09:00 to 11:00 CET
