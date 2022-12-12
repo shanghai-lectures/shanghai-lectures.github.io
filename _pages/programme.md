@@ -83,9 +83,11 @@ permalink: /programme/
 * 10:10 Guest lecture by Sven Behnke
 *  Computer Science Department VI Intelligent Systems and Robotics, Autonomous Intelligent Systems Group, University of Bonn, Bonn, Germany
 * *"Perception, Planning, and Learning for Cognitive Robots"*  
+* The Guest Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/ShanghAI_ Lecture_Sven_Behnke_2022_12_08.pdf).
 * 11:00 Guest student lecture by Dariusz Kotula  
    *  Cracow University of Technology, Cracow, Poland 
    * *"Thermodynamics of Stochastic Conway Game of Life " (work in coop with Krzysztof Pomorski)*
+* The Guest studentlecture presentation's PDF is [here](https://shanghai-lectures.github.io/slides/StochasticGameofLife.pdf).
 
 ### Lecture  7: Grab Bag, Summary, Discussion
 * 2022-12-15 09:00 to 11:00 CET
