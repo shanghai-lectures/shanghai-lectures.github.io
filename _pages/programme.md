@@ -68,6 +68,7 @@ permalink: /programme/
 * 2022-12-1  09:00 to 11:00 CET
 * *Machine Learning and Deep Learning: an Embodied AI Perspective*  
 * Lecturer: Fabio Bonsignorio 
+* The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/ShanghAILecture5_2022PDF.pdf).
 * 10:10 Guest lecture by Yulia Sandamirskaya: 
   * Intel Germany, Munich, Germany
   * *"Neuromorphic Computing"*
@@ -78,6 +79,7 @@ permalink: /programme/
 * 2022-12-8 09:00 to 11:00 CET 
 * Embodied Intelligence: principles and open issues. 
 * Lecturer: Fabio Bonsignorio
+* The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/ShanghAILecture6_2022PDF.pdf).
 * 10:10 Guest lecture by Sven Behnke
 *  Computer Science Department VI Intelligent Systems and Robotics, Autonomous Intelligent Systems Group, University of Bonn, Bonn, Germany
 * *"Perception, Planning, and Learning for Cognitive Robots"*  
