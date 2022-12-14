@@ -72,6 +72,7 @@ permalink: /programme/
 * 10:10 Guest lecture by Yulia Sandamirskaya: 
   * Intel Germany, Munich, Germany
   * *"Neuromorphic Computing"*
+* The Guest Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/Shanghai_Lecture_Sandamirskaya2022.pdf).
 
 
 
