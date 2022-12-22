@@ -94,6 +94,7 @@ permalink: /programme/
 * 2022-12-15 09:00 to 11:00 CET
 * Grab Bag, Summary and topics to discuss: Video is killing the radio stars 
 * Lecturer: Fabio Bonsignorio
+* The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/ShanghAILecture7_2022PDF.pdf).
 * 10:10 Guest lecture by Josh Bongard
    * University of Vermont, Burlington (VT), USA
    * *"Evolutionary Robotics, Xenobots and beyond"*
