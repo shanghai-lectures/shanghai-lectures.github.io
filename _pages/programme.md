@@ -98,6 +98,7 @@ permalink: /programme/
 * 10:10 Guest lecture by Josh Bongard
    * University of Vermont, Burlington (VT), USA
    * *"Evolutionary Robotics, Xenobots and beyond"*
+* The Guest Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/2022_ShanghAIJBongard.pdf).
 
 
 
