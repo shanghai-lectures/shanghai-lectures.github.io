@@ -44,6 +44,7 @@ permalink: /programme/
 * 10:00 Guest lecture by Martin Stoelen: 
   * Western Norway University of Applied Sciences, Bergen, Norway
   * *"Soft robots for the hard problem of picking soft berries”"* 
+* The Guest Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/SHAIL_2022_MartinStoelen.pdf).
 * 10:45 Cracow University of Technology presentation
 * The CUT presentation's PDF is [here](https://shanghai-lectures.github.io/slides/ShanghAILecture3_2022PDF.pdf).
 * 10:50 Koans Announcement
