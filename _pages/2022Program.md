@@ -1,11 +1,11 @@
 ---
 title: "Lecture Programme"
 layout: single
-excerpt: "The lecture programme for the ShanghAI Lectures 2021"
+excerpt: "The lecture programme for the ShanghAI Lectures 2022"
 permalink: /2022Program/
 ---
 
-### The Lecture Programme of the 2022 Edition!!!  Check back it will be updated!
+### The Lecture Programme of the 2022 Edition
 
 ### Lecture 0: Overview
 * 2022-10-27  09:00 to 11:00 CEST 
