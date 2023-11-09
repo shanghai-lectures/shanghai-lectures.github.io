@@ -49,7 +49,7 @@ permalink: /programme/
 * 2023-11-30  09:00 to 11:00 CET
 * *Machine Learning and Deep Learning: an Embodied AI Perspective II *  
 * Lecturer: Fabio Bonsignorio 
-* 10:15 INTERACTIVE SESSION with Fabio Bonsignorio (respondent and Ezio Andreta (speaker):
+* 10:15 INTERACTIVE SESSION with Fabio Bonsignorio (respondent) and Ezio Andreta (speaker):
   * Foresight Project Coordinator, CNR Italy, Retired Director EU Commission, Brussels, Belgium
   * *"Why complexity matters with the ecological transition"
     
