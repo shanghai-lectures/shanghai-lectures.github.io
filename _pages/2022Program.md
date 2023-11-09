@@ -2,7 +2,7 @@
 title: "Lecture Programme"
 layout: single
 excerpt: "The lecture programme for the ShanghAI Lectures 2021"
-permalink: /programme/
+permalink: /2022Program/
 ---
 
 ### The Lecture Programme of the 2022 Edition!!!  Check back it will be updated!
