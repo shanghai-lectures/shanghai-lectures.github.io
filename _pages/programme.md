@@ -63,7 +63,7 @@ permalink: /programme/
 * 2023-12-14 09:00 to 11:30 CET
 * Grab Bag, Summary and topics to discuss: Video is killing the radio stars 
 * Lecturer: Fabio Bonsignorio
-*  09:15 Guest lecture by Comcha Monje
+*  09:15 Guest lecture by Concha Monje
    * University Carlos III de Madrid, Madrid, Spain
    * *"Fractional Cpntrol and (Soft) Robots "*
 * 10:15 Guest lecture by Josh Bongard
