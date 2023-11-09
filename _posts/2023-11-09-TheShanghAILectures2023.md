@@ -1,6 +1,6 @@
 ---
-title: The programme of the 2023 edition will be online soon . Check it!
+title: The programme of the 2023 edition is online. Check it!
 ---
 
-The programm of the ShanghAI Lectures of the _14th_ Edition  will be soon online. The program will be continuously updated. 
-Stay tuned!
+The programm of the ShanghAI Lectures of the _14th_ Edition is online. The program will be continuously updated. 
+Check back soon!
