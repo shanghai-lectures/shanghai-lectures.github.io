@@ -41,7 +41,7 @@ permalink: /programme/
 * 2023-11-23 09:00 to 11:15 CET
 * *Machine Learning and Deep Learning: an Embodied AI Perspective I * 
 * Lecturer: Fabio Bonsignorio 
-* 10:15 Guest lecture by Perla Maiolin: 
+* 10:15 Guest lecture by Perla Maiolino: 
   * Oxford Robotics Institute, University of Oxford, Oxford, UK
   * *"Why robots need soft and perceptive bodies"*
 
