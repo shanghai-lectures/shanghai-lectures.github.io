@@ -37,7 +37,7 @@ permalink: /programme/
   * Rovial Space, Paris, France
   * *"An Industrial perspective of Robotics: from Social Space to Outer Space”"* 
   
-### Lecture 4: Morphological Computation, Self-Organization of Behaviors and Adaptive Morphologies
+### Lecture 4: Machine Learning and Deep Learning: an Embodied AI Perspective I
 * 2023-11-23 09:00 to 11:15 CET
 * *Machine Learning and Deep Learning: an Embodied AI Perspective I * 
 * Lecturer: Fabio Bonsignorio 
@@ -45,7 +45,7 @@ permalink: /programme/
   * Oxford Robotics Institute, University of Oxford, Oxford, UK
   * *"Why robots need soft and perceptive bodies"*
 
-### Lecture 5: Machine Learning and Deep Learning: an Embodied AI Perspective
+### Lecture 5: Machine Learning and Deep Learning: an Embodied AI Perspective II
 * 2023-11-30  09:00 to 11:00 CET
 * *Machine Learning and Deep Learning: an Embodied AI Perspective II *  
 * Lecturer: Fabio Bonsignorio 
