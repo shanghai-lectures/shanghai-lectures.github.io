@@ -51,7 +51,7 @@ permalink: /programme/
 * Lecturer: Fabio Bonsignorio 
 * 10:15 INTERACTIVE SESSION with Fabio Bonsignorio (respondent and Ezio Andreta (speaker):
   * Foresight Project Coordinator, CNR Italy, Retired Director EU Commission, Brussels, Belgium
-  * *"WHy complexity matters with the ecological transition"
+  * *"Why complexity matters with the ecological transition"
     
 ### Lecture  6: Embodied Intelligence: principles and open issues
 * 2023-12-7 09:00 to 11:00 CET 
