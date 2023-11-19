@@ -57,7 +57,9 @@ permalink: /programme/
 * 2023-12-7 09:00 to 11:00 CET 
 * Embodied Intelligence: principles and open issues. 
 * Lecturer: Fabio Bonsignorio
-* 10:15  Guest lecture TBC
+* 10:15  Guest lecture by Tetsuya Ogata
+   * Waseda University, Director, Open Innovation Promotion Section, Research Innovation Center, Director, Institute for AI and Robotics,..., Tokyo, Japan
+   * *"AI and Deep Predictive Learning Methods in Robotics"*
 
 ### Lecture  7: Grab Bag, Summary, Discussion
 * 2023-12-14 09:00 to 11:30 CET
