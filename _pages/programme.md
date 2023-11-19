@@ -67,7 +67,7 @@ permalink: /programme/
 * Lecturer: Fabio Bonsignorio
 *  09:15 Guest lecture by Concha Monje
    * University Carlos III de Madrid, Madrid, Spain
-   * *"Fractional Cpntrol and (Soft) Robots "*
+   * *"Fractional Control and (Soft) Robots "*
 * 10:15 Guest lecture by Josh Bongard
    * University of Vermont, Burlington (VT), USA
    * *"Evolutionary Robotics, Xenobots and beyond"*
