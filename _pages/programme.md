@@ -11,6 +11,7 @@ permalink: /programme/
 * 2023-10-26  09:00 to 11:00 CEST 
 * *AI and Robotics as tools to face our times' global dramatic challenges* 
 * Lecturer: Fabio Bonsignorio
+* The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/ShanghAILecture0_2023PDF.pdf).
 
 ### Lecture 1: AI, Robotics, Embodied AI: Questioning received opinions
 * 2023-11-2  09:00 to 11:00 CET 
