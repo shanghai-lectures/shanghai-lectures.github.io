@@ -33,6 +33,7 @@ permalink: /programme/
 * *Morphological Computation, Self-Organization of Behaviors and Adaptive Morphologies* 
 * Lecturer: Fabio Bonsignorio
 * 09:50 Koans Announcement
+* The Koans and related instructions are [here](https://shanghai-lectures.github.io/slides/SHAIL2023_KoansPDF.pdf).
 * 10:15 Guest lecture by Amit Kumar Pandey: 
   * Rovial Space, Paris, France
   * *"An Industrial perspective of Robotics: from Social Space to Outer Space”"* 
