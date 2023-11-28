@@ -17,6 +17,7 @@ permalink: /programme/
 * 2023-11-2  09:00 to 11:00 CET 
 * *The Role of Embodiment in Intelligent Systems vs. Practical Robotics in 2023* 
 * Lecturer: Fabio Bonsignorio
+* The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/ShanghAILecture1_2023PDF.pdf).
 * 10:15 Guest Lecture by Krzysztof Pomorski 
   * Technical University of Lodz, Institute of Physics, Lodz, Poland 
   * *"Thermodynamics in Stochastic Conway’s Game of Life"*
