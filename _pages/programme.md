@@ -21,6 +21,8 @@ permalink: /programme/
 * 10:15 Guest Lecture by Krzysztof Pomorski 
   * Technical University of Lodz, Institute of Physics, Lodz, Poland 
   * *"Thermodynamics in Stochastic Conway’s Game of Life"*
+  * The Guest Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/ClassicalStochasticandQuantumConwayGameofLife.pdf).
+
   
 ### Lecture 2: Evolution: Cognition from Scratch
 * 2023-11-9 09:00 to 11:00 CET 
