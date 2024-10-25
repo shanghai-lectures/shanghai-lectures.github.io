@@ -72,7 +72,9 @@ defaults:
     values:
       sidebar:
         - title: "Partner sites"
-          text: "1. [Adam Mickiewicz University](https://international.amu.edu.pl), Poznań (Poland)
+          text: "0. [University of Zagreb FER](https://aifors.fer.hr), Zagreb (Croatia)
+          
+1. [Adam Mickiewicz University](https://international.amu.edu.pl), Poznań (Poland)
 
 2. [Humboldt University zu Berlin](http://adapt.informatik.hu-berlin.de) (Germany)
 
@@ -92,9 +94,12 @@ defaults:
 
 10. [AGH University of Science and Technologies](http://www.agh.edu.pl/en/), Crakow (Poland)
 
-11. [University of Warsaw](http://en.uw.edu.pl) (Poland)
+11. [University of Warsaw](http://en.uw.edu.pl), Warsaw (Poland)
 
-12. [University College Dublin](https://www.ucd.ie/) (Ireland)"
+12. [University College Dublin](https://www.ucd.ie/) (Ireland)
+
+13. [Politecnico di Bari](https://www.dmmm.poliba.it/) Bari, (Italy)"
+"
 
 
 # SEO Related
