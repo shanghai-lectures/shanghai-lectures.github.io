@@ -9,6 +9,9 @@ main:
  # - title: "Live Stream"
  #   url: https://arcamm.uc3m.es/arcamm_3/liveEvents/show/16
 
+  - title: " The 2023 Edition "
+    url: /2023Program/
+
   - title: " The 2022 Edition "
     url: /2022Program/
  
