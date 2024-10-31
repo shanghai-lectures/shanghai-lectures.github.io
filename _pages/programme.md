@@ -33,7 +33,7 @@ permalink: /programme/
 * *Morphological Computation, Self-Organization of Behaviors and Adaptive Morphologies* 
 * Lecturer: Fabio Bonsignorio
 * 10:15 Guest lecture by Cesare Stefanini: 
-  *Scuola Superiore Sant'Anna, Director The Biorobotics Institute,..., Pisa, Italy
+  * Scuola Superiore Sant'Anna, Director The Biorobotics Institute,..., Pisa, Italy
   * *"Underwater Bio-inpired Robotics”"* 
   
 ### Lecture 4: Machine Learning and Deep Learning: an Embodied AI Perspective I
