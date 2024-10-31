@@ -8,71 +8,62 @@ permalink: /programme/
 ### The Lecture Programme of the 2023 Edition!!!  Check back it will be updated!
 
 ### Lecture 0: Overview
-* 2023-10-26  09:00 to 11:00 CEST 
+* 2024-10-24  09:00 to 11:00 CEST 
 * *AI and Robotics as tools to face our times' global dramatic challenges* 
 * Lecturer: Fabio Bonsignorio
-* The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/ShanghAILecture0_2023PDF.pdf).
 
 ### Lecture 1: AI, Robotics, Embodied AI: Questioning received opinions
-* 2023-11-2  09:00 to 11:00 CET 
-* *The Role of Embodiment in Intelligent Systems vs. Practical Robotics in 2023* 
+* 2024-10-31  09:00 to 11:00 CET 
+* *The Role of Embodiment in Intelligent Systems vs. Practical Robotics in 2024* 
 * Lecturer: Fabio Bonsignorio
-* The Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/ShanghAILecture1_2023PDF.pdf).
 * 10:15 Guest Lecture by Krzysztof Pomorski 
-  * Technical University of Lodz, Institute of Physics, Lodz, Poland 
-  * *"Thermodynamics in Stochastic Conway’s Game of Life"*
-  * The Guest Lecture's PDF is [here](https://shanghai-lectures.github.io/slides/ClassicalStochasticandQuantumConwayGameofLife.pdf).
-
+  * Technical University of Lodz, Institute of Physics, Lodz, Poland and Quantum Hardware Systems
+  * *"From room temperature to superconducting cryogenic Braitenberg vehicles"*
   
 ### Lecture 2: Evolution: Cognition from Scratch
-* 2023-11-9 09:00 to 11:00 CET 
+* 2024-11-7 09:00 to 11:00 CET 
 * *Emerging Intelligence: Embodiment, Cognition from Interaction, Development and Evolution* 
 * Lecturer: Fabio Bonsignorio
-* 10:15 INTERACTIVE SESSION with Fabio Bonsignorio (respondent) and Enrica Zereik (speaker): 
-  * CNR - INM, Heron@Cnr Joint Lab, Genoa, Italy 
-  * *"Dialogue on the Chief Systems of AI and Robotics :-) *
+* 10:15 Guest Lecture by Vito Cacucciolo,  
+  * Politecnico di Bari, Bari, Italy and Omnigrasp
+  * *"Robotic Physics: how to use robots to hack the laws of physics. Fluidic muscles that do not obey Bernoulli’s law and grippers with programmable surface properties."* 
 
 ### Lecture 3: Morphological Computation, Self-Organization of Behaviors and Adaptive Morphologies
-* 2023-11-16 09:00 to 11:00 CET 
+* 2024-11-14 09:00 to 11:00 CET 
 * *Morphological Computation, Self-Organization of Behaviors and Adaptive Morphologies* 
 * Lecturer: Fabio Bonsignorio
-* 09:50 Koans Announcement
-* The Koans and related instructions are [here](https://shanghai-lectures.github.io/slides/SHAIL2023_KoansPDF.pdf).
-* 10:15 Guest lecture by Amit Kumar Pandey: 
-  * Rovial Space, Paris, France
-  * *"An Industrial perspective of Robotics: from Social Space to Outer Space”"* 
+* 10:15 Guest lecture by Cesare Stefanini: 
+  *Scuola Superiore Sant'Anna, Director The Biorobotics Institute,..., Pisa, Italy
+  * *"Underwater Bio-inpired Robotics”"* 
   
 ### Lecture 4: Machine Learning and Deep Learning: an Embodied AI Perspective I
-* 2023-11-23 09:00 to 11:15 CET
+* 2024-11-21 09:00 to 11:15 CET
 * *Machine Learning and Deep Learning: an Embodied AI Perspective I * 
 * Lecturer: Fabio Bonsignorio 
-* 10:15 Guest lecture by Perla Maiolino: 
-  * Oxford Robotics Institute, University of Oxford, Oxford, UK
-  * *"Why robots need soft and perceptive bodies"*
+* 10:15 Guest lecture by Daniel Polani: 
+  * Centre for Computer Science and Informatics Research, University of Hertfordshire, Hatfield, UK
+  * *"How information and embodiment shape intelligent information processing "*
 
 ### Lecture 5: Machine Learning and Deep Learning: an Embodied AI Perspective II
-* 2023-11-30  09:00 to 11:00 CET
+* 2024-11-28  09:00 to 11:00 CET
 * *Machine Learning and Deep Learning: an Embodied AI Perspective II *  
 * Lecturer: Fabio Bonsignorio 
-* 10:15 INTERACTIVE SESSION with Fabio Bonsignorio (respondent) and Ezio Andreta (speaker):
-  * Foresight Project Coordinator, CNR Italy, Retired Director EU Commission, Brussels, Belgium
-  * *"Why complexity matters with the ecological transition"
+* 10:15  Guest lecture by Yoshihiko Nakamura
+   * Department Chair of Robotics, Mohamed bin Zayed University of Artificial Intelligence, Prof.em. University of Tokyo, ,..., Abu Dhabi, UAE
+   * *"Embodied AI from Human Motion Data "*
     
 ### Lecture  6: Embodied Intelligence: principles and open issues
-* 2023-12-7 09:00 to 11:00 CET 
+* 2024-12-5 09:00 to 11:00 CET 
 * Embodied Intelligence: principles and open issues. 
 * Lecturer: Fabio Bonsignorio
-* 10:15  Guest lecture by Tetsuya Ogata
-   * Waseda University, Director, Open Innovation Promotion Section, Research Innovation Center, Director, Institute for AI and Robotics,..., Tokyo, Japan
-   * *"AI and Deep Predictive Learning Methods in Robotics"*
+* 10:15  Guest lecture by Paolo Dario
+   * Prof.em. Scuola Superiore Sant'Anna, Founding Director The Biorobotics Institute, Scientific Director Artes 5.0,..., Pisa, Italy
+   * *"From Blue Sky reserach to radical Deep tech Innovation "*
 
 ### Lecture  7: Grab Bag, Summary, Discussion
-* 2023-12-14 09:00 to 11:30 CET
+* 2024-12-12 09:00 to 11:00 CET
 * Grab Bag, Summary and topics to discuss: Video is killing the radio stars 
 * Lecturer: Fabio Bonsignorio
-*  09:15 Guest lecture by Concha Monje
-   * University Carlos III de Madrid, Madrid, Spain
-   * *"Fractional Control and (Soft) Robots "*
 * 10:15 Guest lecture by Josh Bongard
    * University of Vermont, Burlington (VT), USA
    * *"Evolutionary Robotics, Xenobots and beyond"*
