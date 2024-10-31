@@ -1,8 +1,8 @@
 ---
-title: "Lecture Programme 2023"
+title: "Lecture Programme"
 layout: single
 excerpt: "The lecture programme for the ShanghAI Lectures 2023"
-permalink: /programme/
+permalink: /2023Program/
 ---
 
 ### The Lecture Programme of the 2023 Edition
