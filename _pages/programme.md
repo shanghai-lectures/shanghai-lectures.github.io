@@ -5,7 +5,7 @@ excerpt: "The lecture programme for the ShanghAI Lectures 2023"
 permalink: /programme/
 ---
 
-### The Lecture Programme of the 2023 Edition!!!  Check back it will be updated!
+### The Lecture Programme of the 2024 Edition!!!  Check back it will be updated!
 
 ### Lecture 0: Overview
 * 2024-10-24  09:00 to 11:00 CEST 
