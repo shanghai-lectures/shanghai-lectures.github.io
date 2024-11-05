@@ -59,7 +59,7 @@ permalink: /programme/
 * Lecturer: Fabio Bonsignorio
 * 10:15  Guest lecture by Paolo Dario
    * Prof.em. Scuola Superiore Sant'Anna, Founding Director The Biorobotics Institute, Scientific Director Artes 5.0,..., Pisa, Italy
-   * *"From Blue Sky reserach to radical Deep tech Innovation "*
+   * *"From Blue Sky Research to radical Deep tech Innovation "*
 
 ### Lecture  7: Grab Bag, Summary, Discussion
 * 2024-12-12 09:00 to 11:00 CET
