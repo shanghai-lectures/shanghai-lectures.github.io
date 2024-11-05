@@ -21,8 +21,9 @@ permalink: /programme/
   * *"From room temperature to superconducting cryogenic Braitenberg vehicles"*
   
 ### Lecture 2: Evolution: Cognition from Scratch
-* 2024-11-7 09:00 to 11:00 CET 
-* *Emerging Intelligence: Embodiment, Cognition from Interaction, Development and Evolution* 
+* 2024-11-7 09:00 to 11:00 CET
+* 09:05 Students' prez: The Chinese Room Experiment... Live from Xian, China!
+* 09:15 *Emerging Intelligence: Embodiment, Cognition from Interaction, Development and Evolution* 
 * Lecturer: Fabio Bonsignorio
 * 10:15 Guest Lecture by Vito Cacucciolo,  
   * Politecnico di Bari, Bari, Italy and Omnigrasp
