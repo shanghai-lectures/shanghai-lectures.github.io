@@ -35,7 +35,7 @@ permalink: /programme/
 * Lecturer: Fabio Bonsignorio
 * 10:15 Guest lecture by Cesare Stefanini: 
   * Scuola Superiore Sant'Anna, Director The Biorobotics Institute,..., Pisa, Italy
-  * *"Underwater Bio-inpired Robotics”"* 
+  * *"Underwater Bio-inspired Robotics”"* 
   
 ### Lecture 4: Machine Learning and Deep Learning: an Embodied AI Perspective I
 * 2024-11-21 09:00 to 11:15 CET
