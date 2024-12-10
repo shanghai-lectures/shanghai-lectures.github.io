@@ -63,7 +63,7 @@ permalink: /programme/
 
 ### Lecture  7: Grab Bag, Summary, Discussion
 * 2024-12-12 09:00 to 11:00 CET
-* 09:05 Food for thought by Ezio Amdreta
+* 09:05 Food for thought by Ezio Andreta
    * Foresight Project Coordinator, CNR Italy, Retired Director EU Commission, Brussels, Belgium,...
    * *"Complexity, Self-Organization, Emergence"*
 * 09:20 Grab Bag, Summary and topics to discuss: Video is killing the radio stars 
