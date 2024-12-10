@@ -63,7 +63,10 @@ permalink: /programme/
 
 ### Lecture  7: Grab Bag, Summary, Discussion
 * 2024-12-12 09:00 to 11:00 CET
-* Grab Bag, Summary and topics to discuss: Video is killing the radio stars 
+* 09:05 Food for thought by Ezio Amdreta
+   * Foresight Project Coordinator, CNR Italy, Retired Director EU Commission, Brussels, Belgium,...
+   * *"Complexity, Self-Organization, Emergence"*
+* 09:20 Grab Bag, Summary and topics to discuss: Video is killing the radio stars 
 * Lecturer: Fabio Bonsignorio
 * 10:15 Guest lecture by Josh Bongard
    * University of Vermont, Burlington (VT), USA
