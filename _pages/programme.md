@@ -22,8 +22,11 @@ permalink: /programme/
   
 ### Lecture 3: Evolution: Cognition from Scratch
 * 2025-11-13 09:00 to 11:00 CET
-* 09:00  *Emerging Intelligence: Embodiment, Cognition from Interaction, Development and Evolution* 
-* Lecturer: Fabio Bonsignorio
+* 09:00  * A teaser about Emerging Intelligence: Embodiment, Cognition from Interaction, Development and Evolution* 
+* Fabio Bonsignorio
+* 9:15 Guest Lecture by Jitka Cejkova,  
+  * University of Chemistry and Technology Prague, Prague, Czechia, editor of "R.U.R. and the Vision of Artificial Life", MIT Press (2024)
+  * *"R.U.R. robots were...biorobots"* 
 * 10:15 Guest Lecture by Weidong Chen,  
   * Shanghai Jiao Tong University, Shanghai,China
   * *"Localization and Navigation of Intelligent Wheelchair in Dynamic Environments"* 
