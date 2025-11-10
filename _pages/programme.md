@@ -29,7 +29,7 @@ permalink: /programme/
   * *"R.U.R. robots were...biorobots"* 
 * 10:15 Guest Lecture by Weidong Chen,  
   * Shanghai Jiao Tong University, Shanghai,China
-  * *"Localization and Navigation of Intelligent Wheelchair in Dynamic Environments"* 
+  * *"Improving Autonomy and Safety of Intelligent Wheelchair in Dynamic Environments"* 
 
 ### Lecture 4: Morphological Computation, Self-Organization of Behaviors and Adaptive Morphologies
 * 2025-11-20 09:00 to 11:00 CET 
