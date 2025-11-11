@@ -58,12 +58,17 @@ permalink: /programme/
    * *"A social perspective on cognitive architectures "*
 
 ### Lecture  7: Embodied Intelligence: principles and open issues
-* 2025-12-11 09:00 to 11:00 CET 
-* Embodied Intelligence: principles and open issues. 
+* 2025-12-11 09:00 to 11:30 CET 
+* Embodied Intelligence: principles and open issues. Welcome and day teaser!
 * Lecturer: Fabio Bonsignorio
 * 9:15  Guest lecture by Josie Hughes,
    * EPFL, Lausanne, Switzerland
    * *"Soft Robotics and Embodied AI "*
+* 10:05 Embodied Intelligence: principles and open issues. 
+* Lecturer: Fabio Bonsignorio
+* 10:45  Guest lecture by Fumiya Iida,
+   * University of Tokyo, Tokyo, Japan
+   * *"Informatizing Soft Robots for Super Embodied Intelligence "*
 
 ### Lecture  6: Grab Bag, Summary, Discussion
 * 2025-18-12 09:00 to 11:00 CET
