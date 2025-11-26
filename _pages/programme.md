@@ -41,18 +41,19 @@ permalink: /programme/
   
 ### Lecture 5: Machine Learning and Deep Learning: an Embodied AI Perspective I
 * 2025-11-27 09:00 to 11:15 CET
-* 9:00 Welcome (Fabio)  
-* 9:15  Guest lecture by Lola Canamero
-   *  CY Cergy Paris University and ETIS Lab, Paris, France
-   * *"Emotion Modeling in Robots "*
+* 9:00 Welcome 
+* Machine Learning and Deep Learning: an Embodied AI Perspective *  
+* Lecturer: Fabio Bonsignorio
 * 10:15 Guest lecture by Matej Hoffmann: 
   * Czech Technical University Prague, Prague, Czechia
   * *"Embodied AI in Machine Learning - is it Really Embodied?"*
 
 ### Lecture 6: Machine Learning and Deep Learning: an Embodied AI Perspective II
 * 2025-12-4  09:00 to 11:00 CET
-* *Machine Learning and Deep Learning: an Embodied AI Perspective *  
-* Lecturer: Fabio Bonsignorio 
+* 9:00 Welcome
+* 9:15  Guest lecture by Lola Canamero
+   *  CY Cergy Paris University and ETIS Lab, Paris, France
+   * *"Emotion Modeling in Robots "*
 * 10:15  Guest lecture by Alessandra Sciutti
    * IIT, Genoa, Italy
    * *"A social perspective on cognitive architectures "*
