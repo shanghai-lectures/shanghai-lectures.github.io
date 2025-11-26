@@ -71,8 +71,8 @@ permalink: /programme/
    * University of Tokyo, Tokyo, Japan
    * *"Informatizing Soft Robots for Super Embodied Intelligence "*
 
-### Lecture  6: Grab Bag, Summary, Discussion
-* 2025-18-12 09:00 to 11:00 CET
+### Lecture  8: Grab Bag, Summary, Discussion
+* 2025-12-18 09:00 to 11:00 CET
 * 09:05  Grab Bag, Summary and topics to discuss: Video is killing the radio stars 
 * Lecturer: Fabio Bonsignorio
 * 10:15 Guest lecture by Josh Bongard
