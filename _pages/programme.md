@@ -50,7 +50,10 @@ permalink: /programme/
 
 ### Lecture 6: Machine Learning and Deep Learning: an Embodied AI Perspective II
 * 2025-12-4  09:00 to 11:00 CET
-* 9:00 Welcome
+* 9:00 Welcome (Enrica Zereik, CNR-INM, Genoa)
+* 9:05 Flash talk by Luca Zanetti
+   *  IIT, Genoa, Italy
+   * *"We de-extinguished the SnakeBot! "*
 * 9:15  Guest lecture by Lola Canamero
    *  CY Cergy Paris University and ETIS Lab, Paris, France
    * *"Emotion Modeling in Robots "*
