@@ -15,7 +15,7 @@ permalink: /programme/
 ### Lecture 2: Open issues, research challenges, and the road ahead in
 AI for Robotics
 * 2026-11-5  09:00 to 11:00 CET 
-* * Open issues, research challenges, and the road ahead in AI for Robotics
+*  Open issues, research challenges, and the road ahead in AI for Robotics
 * Lecturer: Fabio Bonsignorio
 * 10:15 Guest Lecture by Enrica Zereik 
   * National Research Council of Italy, Genoa, Italy
@@ -24,7 +24,7 @@ Embodied Intelligence, Social cues, and experimental reproducibility"*
   
 ### Lecture 3: Evolution: Cognition from Scratch
 * 2026-11-12 09:00 to 11:00 CET
-* * Open issues, research challenges, and the road ahead in AI for Robotics
+* Open issues, research challenges, and the road ahead in AI for Robotics
 * Lecturer: Fabio Bonsignorio
 * 10:15 Guest Lecture by Eric Monacelli,  
   * University of Versailles, Paris-Saclay University, Paris, France
