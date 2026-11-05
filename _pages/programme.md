@@ -42,7 +42,7 @@ Exploring Interactive Assistive Robotics Through an Artistic and Innovative Appr
 ### Lecture 5: Machine Learning and Deep Learning: an Embodied AI Perspective I
 * 2025-11-26 09:00 to 11:15 CET
 * 9:00 Welcome 
-* Machine Learning and Deep Learning: an Embodied AI Perspective  (teaser)*  
+* Machine Learning and Deep Learning: an Embodied AI Perspective  (teaser) 
 * Fabio Bonsignorio
 * 09:15  Guest lecture by Lucia Beccai
    * IIT, Genoa, Italy
