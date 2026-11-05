@@ -1,86 +1,80 @@
 ---
 title: "Lecture Programme"
 layout: single
-excerpt: "The lecture programme for the ShanghAI Lectures 2025"
+excerpt: "The lecture programme for the ShanghAI Lectures 2026"
 permalink: /programme/
 ---
 
-### The Lecture Programme of the 2025 Edition!!!  Check back it will be updated!
+### The Lecture Programme of the 2026 Edition!!!  Check back it will be updated!
 
 ### Lecture 1: Overview
-* 2025-10-30  09:00 to 11:00 CET 
-* *AI and Robotics as tools to face our times' global dramatic challenges* 
+* 2026-10-29  09:00 to 11:00 CET 
+* * Embodied/Physical  AI  on a Hot Little Planet* 
 * Lecturer: Fabio Bonsignorio
 
-### Lecture 2: AI, Robotics, Embodied AI: Questioning received opinions
-* 2025-11-6  09:00 to 11:00 CET 
-* * (continued) Coping with 'interesting times'. The Role of Embodiment in Intelligent Systems vs. Practical Robotics in 2025
+### Lecture 2: Open issues, research challenges, and the road ahead in
+AI for Robotics
+* 2026-11-5  09:00 to 11:00 CET 
+* * Open issues, research challenges, and the road ahead in AI for Robotics
 * Lecturer: Fabio Bonsignorio
-* 10:15 Guest Lecture by Lorenzo Jamone 
-  * University College London, London, UK
-  * *"The Intelligence of the Hand"*
+* 10:15 Guest Lecture by Enrica Zereik 
+  * National Research Council of Italy, Genoa, Italy
+  * *"Towards trustworthy multi-robot cooperation:
+Embodied Intelligence, Social cues, and experimental reproducibility"*
   
 ### Lecture 3: Evolution: Cognition from Scratch
-* 2025-11-13 09:00 to 11:00 CET
-* 09:00  * A teaser about Emerging Intelligence: Embodiment, Cognition from Interaction, Development and Evolution* 
-* Fabio Bonsignorio
-* 9:15 Guest Lecture by Jitka Cejkova,  
-  * University of Chemistry and Technology Prague, Prague, Czechia, editor of "R.U.R. and the Vision of Artificial Life", MIT Press (2024)
-  * *"R.U.R. robots were...biorobots"* 
-* 10:15 Guest Lecture by Weidong Chen,  
-  * Shanghai Jiao Tong University, Shanghai,China
-  * *"Improving Autonomy and Safety of Intelligent Wheelchair in Dynamic Environments"* 
+* 2026-11-12 09:00 to 11:00 CET
+* * Open issues, research challenges, and the road ahead in AI for Robotics
+* Lecturer: Fabio Bonsignorio
+* 10:15 Guest Lecture by Eric Monacelli,  
+  * University of Versailles, Paris-Saclay University, Paris, France
+  * *"VOLTING: Emotional Mobility - 
+Exploring Interactive Assistive Robotics Through an Artistic and Innovative Approach with applications"* 
 
 ### Lecture 4: Morphological Computation, Self-Organization of Behaviors and Adaptive Morphologies
-* 2025-11-20 09:00 to 11:00 CET 
+* 2026-11-19 09:00 to 11:00 CET 
 * *Morphological Computation, Self-Organization of Behaviors and Adaptive Morphologies* 
 * Lecturer: Fabio Bonsignorio
-* 10:15 Guest lecture by Andrea Bertolini: 
-  * Scuola Superiore Sant'Anna, Pisa, Italy
-  * *"The EU AI Act"* 
+* 10:15 Case Studies
+  * All 
+  * *"Playing with Research Challenges"* 
   
 ### Lecture 5: Machine Learning and Deep Learning: an Embodied AI Perspective I
-* 2025-11-27 09:00 to 11:15 CET
+* 2025-11-26 09:00 to 11:15 CET
 * 9:00 Welcome 
-* Machine Learning and Deep Learning: an Embodied AI Perspective *  
-* Lecturer: Fabio Bonsignorio
-* 10:15 Guest lecture by Matej Hoffmann: 
-  * Czech Technical University Prague, Prague, Czechia
-  * *"Embodied AI in Machine Learning - is it Really Embodied?"*
+* Machine Learning and Deep Learning: an Embodied AI Perspective  (teaser)*  
+* Fabio Bonsignorio
+* 09:15  Guest lecture by Lucia Beccai
+   * IIT, Genoa, Italy
+   * *"How to Make Soft Robots Perceptive "*
+* 10:15 Guest lecture by Bin Gong: 
+  * Secretary-General of Guoxin Embodied Intelligence Innovation Center，Secretary-General of RoboCom International Opening Committee
+  * *"RoboCom and RAICOM Competitions"*
 
 ### Lecture 6: Machine Learning and Deep Learning: an Embodied AI Perspective II
-* 2025-12-4  09:00 to 11:00 CET
-* 9:00 Welcome (Enrica Zereik, CNR-INM, Genoa)
-* 9:05 Flash talk by Luca Zanetti
-   *  IIT, Genoa, Italy
-   * *"We de-extinguished the SnakeBot! "*
-* 9:15  Guest lecture by Lola Canamero
-   *  CY Cergy Paris University and ETIS Lab, Paris, France
-   * *"Emotion Modeling in Robots "*
-* 10:15  Guest lecture by Alessandra Sciutti
-   * IIT, Genoa, Italy
-   * *"A social perspective on cognitive architectures "*
+* 2026-12-3  09:00 to 11:00 CET
+* Machine Learning and Deep Learning: an Embodied AI Perspective
+* Lecturer: Fabio Bonsignorio
+* 10:15  Guest lecture by Ezio Andreta
+   * CNR Foresight, Former EU Commission Research Director, Italy
+   * *"Materials are the Future "*
 
 ### Lecture  7: Embodied Intelligence: principles and open issues
-* 2025-12-11 09:00 to 11:30 CET 
-* Embodied Intelligence: principles and open issues. Welcome and day teaser!
+* 2026-12-10 09:00 to 11:30 CET 
+* Embodied Intelligence: principles and open issues
 * Lecturer: Fabio Bonsignorio
-* 9:15  Guest lecture by Josie Hughes,
-   * EPFL, Lausanne, Switzerland
-   * *"Soft Robotics and Embodied AI "*
-* 10:05 Embodied Intelligence: principles and open issues. 
-* Lecturer: Fabio Bonsignorio
-* 10:45  Guest lecture by Fumiya Iida,
-   * University of Tokyo, Tokyo, Japan
-   * *"Informatizing Soft Robots for Super Embodied Intelligence "*
+* 10:15  Guest lecture by Cosimo Della Santina,
+   * TU Delft, Delft, The Netherlands
+   * *"Unconventional Robotics "*
 
 ### Lecture  8: Grab Bag, Summary, Discussion
-* 2025-12-18 09:00 to 11:00 CET
-* 09:05  Grab Bag, Summary and topics to discuss: Video is killing the radio stars 
+* 2026-12-17 09:00 to 11:00 CET
+* 09:05  Grab Bag, Summary and topics to discuss: insect level intelligence?
 * Lecturer: Fabio Bonsignorio
 * 10:15 Guest lecture by Josh Bongard
    * University of Vermont, Burlington (VT), USA
-   * *"Evolutionary Robotics, Xenobots and beyond"*
+   * *"Vermont Night Lecture Update on Evolutionary Robotics, Xenobots and beyond"*
+
 
 
 
