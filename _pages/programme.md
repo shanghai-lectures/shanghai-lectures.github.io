@@ -59,7 +59,7 @@ Exploring Interactive Assistive Robotics Through an Artistic and Innovative Appr
    * CNR Foresight, Former EU Commission Research Director, Rome, Italy
    * *"Materials are the Future "*
 * 10:45  Guest lecture by Mario Rasetti
-   * President CETAI, Former President Fondazione ISI, Turin, Italy
+   * Em.Prof. Theoretical Physics, Politecnico di Torino, President CETAI, Former President Fondazione ISI, Turin, Italy
    * *"The Future of AI"*
 
 ### Lecture  7: Embodied Intelligence: principles and open issues
