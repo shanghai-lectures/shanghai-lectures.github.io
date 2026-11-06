@@ -40,7 +40,7 @@ Exploring Interactive Assistive Robotics Through an Artistic and Innovative Appr
   * *"Playing with Research Challenges"* 
   
 ### Lecture 5: Machine Learning and Deep Learning: an Embodied AI Perspective I
-* 2025-11-26 09:00 to 11:15 CET
+* 2026-11-26 09:00 to 11:15 CET
 * 9:00 Welcome 
 * Machine Learning and Deep Learning: an Embodied AI Perspective  (teaser) 
 * Fabio Bonsignorio
@@ -55,9 +55,12 @@ Exploring Interactive Assistive Robotics Through an Artistic and Innovative Appr
 * 2026-12-3  09:00 to 11:00 CET
 * Machine Learning and Deep Learning: an Embodied AI Perspective
 * Lecturer: Fabio Bonsignorio
-* 10:15  Guest lecture by Ezio Andreta
-   * CNR Foresight, Former EU Commission Research Director, Italy
+* 09:55  Guest lecture by Ezio Andreta
+   * CNR Foresight, Former EU Commission Research Director, Rome, Italy
    * *"Materials are the Future "*
+* 10:45  Guest lecture by Mario Rasetti
+   * President CETAI, Former President Fondazione ISI, Turin, Italy
+   * *"The Future of AI"*
 
 ### Lecture  7: Embodied Intelligence: principles and open issues
 * 2026-12-10 09:00 to 11:30 CET 
