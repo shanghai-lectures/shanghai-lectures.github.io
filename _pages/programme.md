@@ -24,7 +24,7 @@ Embodied Intelligence, Social cues, and experimental reproducibility"*
   
 ### Lecture 3: Evolution: Cognition from Scratch
 * 2026-11-12 09:00 to 11:00 CET
-* Open issues, research challenges, and the road ahead in AI for Robotics
+* Natural and artificial intelligence: a different perspective
 * Lecturer: Fabio Bonsignorio
 * 10:15 Guest Lecture by Eric Monacelli,  
   * University of Versailles, Paris-Saclay University, Paris, France
