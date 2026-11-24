@@ -42,11 +42,8 @@ Exploring Interactive Assistive Robotics Through an Artistic and Innovative Appr
 ### Lecture 5: Machine Learning and Deep Learning: an Embodied AI Perspective I
 * 2026-11-26 09:00 to 11:15 CET
 * 9:00 Welcome 
-* Machine Learning and Deep Learning: an Embodied AI Perspective  (teaser) 
+* Machine Learning and Deep Learning: an Embodied AI Perspective
 * Fabio Bonsignorio
-* 09:15  Guest lecture by Lucia Beccai
-   * IIT, Genoa, Italy
-   * *"How to Make Soft Robots Perceptive "*
 * 10:15 Guest lecture by Bin Gong: 
   * Secretary-General of Guoxin Embodied Intelligence Innovation Center，Secretary-General of RoboCom International Opening Committee
   * *"RoboCom and RAICOM Competitions"*
@@ -69,6 +66,9 @@ Exploring Interactive Assistive Robotics Through an Artistic and Innovative Appr
 * 10:15  Guest lecture by Cosimo Della Santina,
    * TU Delft, Delft, The Netherlands
    * *"Unconventional Robotics "*
+* 11:05  Guest lecture by Lucia Beccai
+   * IIT, Genoa, Italy
+   * *"How to Make Soft Robots Perceptive "*
 
 ### Lecture  8: Grab Bag, Summary, Discussion
 * 2026-12-17 09:00 to 11:00 CET
